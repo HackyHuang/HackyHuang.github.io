@@ -10,50 +10,21 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+-----
+ - B.S. in Mathematics and Applied Mathematics, Peking University, 2020
+ - B.S. in Computer Science and Technology, Peking University, 2020
+ - Ph.D in Eletrical and Computer Engineering, Princeton University, 2026 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Awards
+-----
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- National Scholarship (2019);
+- Silver Medal in Shing-Tung Yau College Student Mathematics Contests, Probability & Statistics, individual (2019)
+- The Elite Undergraduate Training Program of Applied Math (2018)
+- Second Prize in the ACM Campus Programming Contest (2018)
+- Meritorious Award in the Interdisciplinary Contest in Modeling (2018)
+- First Prize in the Chinese Mathematics Competitions (2018)
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Community Service
+-----
+* Reviewers for NeurIPS, ICML, ICLR. (2020-now)
