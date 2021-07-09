@@ -18,7 +18,10 @@ I am open to possible cooperations or visiting opportunities. If you are interes
 Publications and Preprints 
 -----
 
-- <font size="5"> Fast Federated Learning in the Presence of Arbitrary Device Unavailability </font>  <i> Xinran Gu*, <b>Kaixuan Huang*</b>, Jingzhao Zhang, Longbo Huang </i>
+- <font size="5"> A Short Note on the Relationship of Information Gain and Eluder Dimension </font>  <i> <b>Kaixuan Huang\*</b>, Sham M. Kakade\*, Jason D. Lee\*, Qi Lei\* </i>
+<br/> ICML2021 Workshop on Reinforcement Learning Theory. <a href="https://arxiv.org/abs/2107.02377">[link]</a> 
+
+- <font size="5"> Fast Federated Learning in the Presence of Arbitrary Device Unavailability </font>  <i> Xinran Gu\*, <b>Kaixuan Huang\*</b>, Jingzhao Zhang, Longbo Huang </i>
 <br/> arxiv preprint. <a href="https://arxiv.org/abs/2106.04159">[link]</a> 
 
 - <font size="5"> Why Do Deep Residual Networks Generalize Better than Deep Feedforward Networks? --- A Neural Tangent Kernel Perspective </font>
