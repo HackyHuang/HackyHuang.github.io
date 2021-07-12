@@ -18,7 +18,10 @@ I am open to possible cooperations or visiting opportunities. If you are interes
 Publications and Preprints 
 -----
 
-- <font size="5"> A Short Note on the Relationship of Information Gain and Eluder Dimension </font>  <i> <b>Kaixuan Huang\*</b>, Sham M. Kakade\*, Jason D. Lee\*, Qi Lei\* </i>
+- <font size="5"> Optimal Gradient-based Algorithms for Non-concave Bandit Optimization </font>  <i> Baihe Huang, <b>Kaixuan Huang</b>, Sham M. Kakade, Jason D. Lee, Qi Lei, Runzhe Wang, Jiaqi Yang </i> (alphabetical)
+<br/> arxiv preprint. <a href="https://arxiv.org/abs/2107.04518">[link]</a> 
+
+- <font size="5"> A Short Note on the Relationship of Information Gain and Eluder Dimension </font>  <i> <b>Kaixuan Huang</b>, Sham M. Kakade, Jason D. Lee, Qi Lei </i> (alphabetical)
 <br/> ICML2021 Workshop on Reinforcement Learning Theory. <a href="https://arxiv.org/abs/2107.02377">[link]</a> 
 
 - <font size="5"> Fast Federated Learning in the Presence of Arbitrary Device Unavailability </font>  <i> Xinran Gu\*, <b>Kaixuan Huang\*</b>, Jingzhao Zhang, Longbo Huang </i>
