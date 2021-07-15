@@ -19,7 +19,7 @@ Publications and Preprints
 -----
 
 - <font size="5"> Going Beyond Linear RL: Sample Efficient Neural Function Approximation </font>  <i> Baihe Huang, <b>Kaixuan Huang</b>, Sham M. Kakade, Jason D. Lee, Qi Lei, Runzhe Wang, Jiaqi Yang </i> (alphabetical)
-<br/> arxiv preprint. <a href="https://arxiv.org">[link]</a> 
+<br/> arxiv preprint. <a href="https://arxiv.org/abs/2107.06466">[link]</a> 
 
 
 - <font size="5"> Optimal Gradient-based Algorithms for Non-concave Bandit Optimization </font>  <i> Baihe Huang, <b>Kaixuan Huang</b>, Sham M. Kakade, Jason D. Lee, Qi Lei, Runzhe Wang, Jiaqi Yang </i> (alphabetical)
