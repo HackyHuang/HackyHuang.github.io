@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Kaixuan Huang (黄凯旋), an incoming Ph.D. student in Electrical and Computer Engineering Department at Princeton. I work closely with Prof. [Jason Lee](https://jasondlee88.github.io/). Before that, I received B.S. in Mathematics and B.S. in Computer Science from Peking University. I was advised by Prof. Zhihua Zhang while doing undergraduate research. In 2019, I visited Georgia Tech as a research intern, supervised by Prof. [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/). In 2020, I visited Tsinghua University as a research intern, supervised by Prof. [Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/).
+I am Kaixuan Huang (黄凯旋), a Ph.D. student in Electrical and Computer Engineering Department at Princeton. I work closely with Prof. [Jason Lee](https://jasondlee88.github.io/). Before that, I received B.S. in Mathematics and B.S. in Computer Science from Peking University. I was advised by Prof. Zhihua Zhang while doing undergraduate research. In 2019, I visited Georgia Tech as a research intern, supervised by Prof. [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/). In 2020, I visited Tsinghua University as a research intern, supervised by Prof. [Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/).
 
 I am broadly interested in theoretical aspects of machine learning and data science, including deep learning theory, optimization, reinforcement learning, etc. I aim at developing theories that provide guidences for devising practical machine learning models, algorithms and methodologies. I also enjoy developing practical algorithms and tools.
 
@@ -19,17 +19,17 @@ Publications and Preprints
 -----
 
 - <font size="5"> Going Beyond Linear RL: Sample Efficient Neural Function Approximation </font>  <i> Baihe Huang, <b>Kaixuan Huang</b>, Sham M. Kakade, Jason D. Lee, Qi Lei, Runzhe Wang, Jiaqi Yang </i> (alphabetical)
-<br/> arxiv preprint. <a href="https://arxiv.org/abs/2107.06466">[link]</a> 
+<br/> In <i>Advances in Neural Information Processing Systems</i> (NeurIPS), 2021. <a href="https://arxiv.org/abs/2107.06466">[link]</a> 
 
 
 - <font size="5"> Optimal Gradient-based Algorithms for Non-concave Bandit Optimization </font>  <i> Baihe Huang, <b>Kaixuan Huang</b>, Sham M. Kakade, Jason D. Lee, Qi Lei, Runzhe Wang, Jiaqi Yang </i> (alphabetical)
-<br/> arxiv preprint. <a href="https://arxiv.org/abs/2107.04518">[link]</a> 
+<br/> In <i>Advances in Neural Information Processing Systems</i> (NeurIPS), 2021. <a href="https://arxiv.org/abs/2107.04518">[link]</a> 
 
 - <font size="5"> A Short Note on the Relationship of Information Gain and Eluder Dimension </font>  <i> <b>Kaixuan Huang</b>, Sham M. Kakade, Jason D. Lee, Qi Lei </i> (alphabetical)
 <br/> ICML2021 Workshop on Reinforcement Learning Theory. <a href="https://arxiv.org/abs/2107.02377">[link]</a> 
 
 - <font size="5"> Fast Federated Learning in the Presence of Arbitrary Device Unavailability </font>  <i> Xinran Gu\*, <b>Kaixuan Huang\*</b>, Jingzhao Zhang, Longbo Huang </i>
-<br/> arxiv preprint. <a href="https://arxiv.org/abs/2106.04159">[link]</a> 
+<br/> In <i>Advances in Neural Information Processing Systems</i> (NeurIPS), 2021. <a href="https://arxiv.org/abs/2106.04159">[link]</a> 
 
 - <font size="5"> Why Do Deep Residual Networks Generalize Better than Deep Feedforward Networks? --- A Neural Tangent Kernel Perspective </font>
 <i><b>Kaixuan Huang\*</b>, Yuqing Wang\*, Molei Tao, Tuo Zhao </i>
