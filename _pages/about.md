@@ -10,7 +10,7 @@ redirect_from:
 
 I am Kaixuan Huang (黄凯旋), a Ph.D. student in Electrical and Computer Engineering Department at Princeton. I work closely with Prof. [Jason Lee](https://jasondlee88.github.io/). Before that, I received B.S. in Mathematics and B.S. in Computer Science from Peking University. I was advised by Prof. Zhihua Zhang while doing undergraduate research. In 2019, I visited Georgia Tech as a research intern, supervised by Prof. [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/). In 2020, I visited Tsinghua University as a research intern, supervised by Prof. [Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/).
 
-I am broadly interested in theoretical aspects of machine learning and data science, including deep learning theory, optimization, reinforcement learning, etc. I aim at developing theories that provide guidences for devising practical machine learning models, algorithms and methodologies. I also enjoy developing practical algorithms and tools.
+I am broadly interested in all aspects of machine learning and data science, with an emphasis on deep learning (Computer Vision and Natural Language Processing), optimization, reinforcement learning, and etc. My general research goal is to understand the science and the art of solving machine learning problems. I aim at developing theories that provide insights into how to devise practical models and algorithms. I also enjoy developing practical algorithms and toolsets to solve a specific problem.
 
 I am open to possible cooperations or visiting opportunities. If you are interested, please contact me by email or [wechat](../files/wechat.jpg).
 
