@@ -11,10 +11,10 @@ redirect_from:
 
 Experiences
 -----
- - Peking University, China. (2016 - 2020) **GPA: 3.88/4**
+ - Peking University, China. (2016 - 2020) **Major GPA: 3.92/4**
     - B.S. in Mathematics and Applied Mathematics;
     - B.S. in Computer Science and Technology.
- - Sensetime Research, China. Jun. (2020 - Dec. 2020)
+ - Sensetime Research, China. (Jun. 2020 - Dec. 2020)
     - Research Intern, working on object detection for autonomous driving.
  - Tsinghua University, China. (Dec. 2020 - Aug. 2021)
     - Research Intern.
