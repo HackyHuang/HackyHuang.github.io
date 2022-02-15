@@ -9,22 +9,34 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Experiences
 -----
- - B.S. in Mathematics and Applied Mathematics, Peking University, 2020
- - B.S. in Computer Science and Technology, Peking University, 2020
- - Ph.D in Eletrical and Computer Engineering, Princeton University, 2026 (expected)
+ - Peking University, China. (2016 - 2020) **Major GPA: 3.92/4**
+    - B.S. in Mathematics and Applied Mathematics;
+    - B.S. in Computer Science and Technology.
+ - Sensetime Research, China. (Jun. 2020 - Dec. 2020)
+    - Research Intern, working on object detection for autonomous driving.
+ - Tsinghua University, China. (Dec. 2020 - Aug. 2021)
+    - Research Intern.
+ - Princeton University, U.S. (2021 - 2026, expected)
+    - Ph.D in Eletrical and Computer Engineering.
 
-Awards
+Selected Awards
 -----
 
-- National Scholarship (2019);
-- Silver Medal in Shing-Tung Yau College Student Mathematics Contests, Probability & Statistics, individual (2019)
-- The Elite Undergraduate Training Program of Applied Math (2018)
-- Second Prize in the ACM Campus Programming Contest (2018)
-- Meritorious Award in the Interdisciplinary Contest in Modeling (2018)
-- First Prize in the Chinese Mathematics Competitions (2018)
+- National Scholarship; (2019, China)
+- Silver Medal in Shing-Tung Yau College Student Mathematics Contests, Probability & Statistics, individual; (2019)
+- The Elite Undergraduate Training Program of Applied Math; (2018)
+- Second Prize in the ACM Campus Programming Contest; (2018)
+- Meritorious Award in the Interdisciplinary Contest in Modeling; (2018)
+- First Prize in the Chinese Mathematics Competitions. (2018)
   
 Community Service
 -----
 * Reviewers for NeurIPS, ICML, ICLR. (2020-now)
+
+
+Skills
+----
+
+* C/C++, Python, PyTorch, Linux, Git, LaTeX, Matlab.
