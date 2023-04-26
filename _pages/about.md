@@ -18,6 +18,13 @@ I am open to possible cooperations or visiting opportunities. If you are interes
 Publications and Preprints 
 -----
 
+- <font size="5"> Score Approximation, Estimation and Distribution Recovery of Diffusion Models on Low-Dimensional Data </font>  <i> Minshuo Chen\*, <b>Kaixuan Huang\*</b>, Tuo Zhao, Mengdi Wang </i>  
+<br/> In <i>International Conference on Machine Learning</i> (ICML), 2023. <a href="https://arxiv.org/abs/2302.07194">[link]</a> 
+
+
+- <font size="5"> Deep Reinforcement Learning for Cost-Effective Medical Diagnosis </font>  <i> Zheng Yu\*, Yikuan Li\*, Joseph Kim\*, <b>Kaixuan Huang\*</b>, Yuan Luo, Mengdi Wang </i>  
+<br/> In <i>International Conference on Learning Representations</i> (ICLR), 2023. <a href="https://openreview.net/forum?id=0WVNuEnqVu">[link]</a> 
+
 - <font size="5"> Going Beyond Linear RL: Sample Efficient Neural Function Approximation </font>  <i> Baihe Huang, <b>Kaixuan Huang</b>, Sham M. Kakade, Jason D. Lee, Qi Lei, Runzhe Wang, Jiaqi Yang </i> (alphabetical)
 <br/> In <i>Advances in Neural Information Processing Systems</i> (NeurIPS), 2021. <a href="https://arxiv.org/abs/2107.06466">[link]</a> 
 
