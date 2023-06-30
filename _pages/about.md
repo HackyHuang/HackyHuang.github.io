@@ -10,13 +10,20 @@ redirect_from:
 
 I am Kaixuan Huang (黄凯旋), a Ph.D. student in Electrical and Computer Engineering Department at Princeton University. I am fortunate to be advised by Professor [Mengdi Wang](https://mwang.princeton.edu/). Before that, I received B.S. in Mathematics and B.S. in Computer Science from Peking University. I was advised by Prof. Zhihua Zhang while doing undergraduate research. In 2019, I visited Georgia Tech as a research intern, supervised by Prof. [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/). In 2020, I visited Tsinghua University as a research intern, supervised by Prof. [Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/). I also worked closely with Prof. [Jason Lee](https://jasondlee88.github.io/).
 
-I am broadly interested in all aspects of machine learning and data science, with an emphasis on deep learning. My general research goal is to understand the science and the art of solving machine learning problems. I aim at developing theories that provide insights into how to devise practical models and algorithms. I also enjoy developing practical algorithms and toolsets to solve a specific problem.
+I am interested in deep learning and artificial general intelligence. My general research goal is to understand the science and the art of designing AGI systems. At high level, I would like to understand (1) the interplay between model structures and data structures, and how it influences the generalization and extrapolation behaviors of the neural networks, (2) the forms of human perception, reasoning, and decision-making, and how to distill human knowledge into machines.
 
 I am open to possible cooperations or visiting opportunities. If you are interested, please contact me by email or [wechat](../files/wechat.jpg).
 
 
 Publications and Preprints 
 -----
+
+- <font size="5"> Visual Adversarial Examples Jailbreak Large Language Models </font>  <i> Xiangyu Qi\*, <b>Kaixuan Huang\*</b>, Ashwinee Panda, Mengdi Wang, Prateek Mittal </i>  
+<br/> ICML 2023 Workshop on New Frontiers in Adversarial Machine Learning. <a href="https://arxiv.org/abs/2306.13213">[link]</a> <a href="https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models">[Code]</a> 
+
+- <font size="5"> Scaling In-Context Demonstrations with Structured Attention </font>  <i> Tianle Cai\*, <b>Kaixuan Huang\*</b>, Jason D. Lee, Mengdi Wang, Danqi Chen </i>  
+<br/> ICML 2023 Workshop on Efficient Systems for Foundation Models. 
+
 
 - <font size="5"> Score Approximation, Estimation and Distribution Recovery of Diffusion Models on Low-Dimensional Data </font>  <i> Minshuo Chen\*, <b>Kaixuan Huang\*</b>, Tuo Zhao, Mengdi Wang </i>  
 <br/> In <i>International Conference on Machine Learning</i> (ICML), 2023. <a href="https://arxiv.org/abs/2302.07194">[link]</a> 
