@@ -11,6 +11,7 @@ redirect_from:
 I am Kaixuan Huang (黄凯旋), a Ph.D. student in Electrical and Computer Engineering Department at Princeton University. I am fortunate to be advised by Professor [Mengdi Wang](https://mwang.princeton.edu/). Before that, I received B.S. in Mathematics and B.S. in Computer Science from Peking University. I was advised by Prof. Zhihua Zhang while doing undergraduate research. In 2019, I visited Georgia Tech as a research intern, supervised by Prof. [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/). In 2020, I visited Tsinghua University as a research intern, supervised by Prof. [Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/). I also worked closely with Prof. [Jason Lee](https://jasondlee88.github.io/).
 
 I am interested in deep learning and artificial general intelligence. My general research goal is to understand the science and the art of designing AGI systems. At high level, I would like to understand (1) the interplay between model structures and data structures, and how it influences the generalization and extrapolation behaviors of the neural networks, (2) the forms of human perception, reasoning, and decision-making, and how to distill human knowledge into machines.
+Currently, I am interested in diffusion models and large language models.
 
 I am open to possible cooperations or visiting opportunities. If you are interested, please contact me by email or [wechat](../files/wechat.jpg).
 
