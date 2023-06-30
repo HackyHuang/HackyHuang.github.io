@@ -18,18 +18,18 @@ I am open to possible cooperations or visiting opportunities. If you are interes
 Publications and Preprints 
 -----
 
-- <font size="5"> Visual Adversarial Examples Jailbreak Large Language Models </font>  <i> Xiangyu Qi\*, <b>Kaixuan Huang\*</b>, Ashwinee Panda, Mengdi Wang, Prateek Mittal </i>  
+- <font size="5"> Visual Adversarial Examples Jailbreak Large Language Models </font>  <i> Xiangyu Qi\*, <b>Kaixuan Huang\*</b>, Ashwinee Panda, Mengdi Wang, Prateek Mittal </i>
 <br/> ICML 2023 Workshop on New Frontiers in Adversarial Machine Learning. <a href="https://arxiv.org/abs/2306.13213">[link]</a> <a href="https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models">[Code]</a> 
 
-- <font size="5"> Scaling In-Context Demonstrations with Structured Attention </font>  <i> Tianle Cai\*, <b>Kaixuan Huang\*</b>, Jason D. Lee, Mengdi Wang, Danqi Chen </i>  
+- <font size="5"> Scaling In-Context Demonstrations with Structured Attention </font>  <i> Tianle Cai\*, <b>Kaixuan Huang\*</b>, Jason D. Lee, Mengdi Wang, Danqi Chen </i>
 <br/> ICML 2023 Workshop on Efficient Systems for Foundation Models. 
 
 
-- <font size="5"> Score Approximation, Estimation and Distribution Recovery of Diffusion Models on Low-Dimensional Data </font>  <i> Minshuo Chen\*, <b>Kaixuan Huang\*</b>, Tuo Zhao, Mengdi Wang </i>  
+- <font size="5"> Score Approximation, Estimation and Distribution Recovery of Diffusion Models on Low-Dimensional Data </font>  <i> Minshuo Chen\*, <b>Kaixuan Huang\*</b>, Tuo Zhao, Mengdi Wang </i>
 <br/> In <i>International Conference on Machine Learning</i> (ICML), 2023. <a href="https://arxiv.org/abs/2302.07194">[link]</a> 
 
 
-- <font size="5"> Deep Reinforcement Learning for Cost-Effective Medical Diagnosis </font>  <i> Zheng Yu\*, Yikuan Li\*, Joseph Kim\*, <b>Kaixuan Huang\*</b>, Yuan Luo, Mengdi Wang </i>  
+- <font size="5"> Deep Reinforcement Learning for Cost-Effective Medical Diagnosis </font>  <i> Zheng Yu\*, Yikuan Li\*, Joseph Kim\*, <b>Kaixuan Huang\*</b>, Yuan Luo, Mengdi Wang </i>
 <br/> In <i>International Conference on Learning Representations</i> (ICLR), 2023. <a href="https://openreview.net/forum?id=0WVNuEnqVu">[link]</a> 
 
 - <font size="5"> Going Beyond Linear RL: Sample Efficient Neural Function Approximation </font>  <i> Baihe Huang, <b>Kaixuan Huang</b>, Sham M. Kakade, Jason D. Lee, Qi Lei, Runzhe Wang, Jiaqi Yang </i> (alphabetical)
