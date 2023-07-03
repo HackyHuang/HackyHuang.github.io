@@ -19,7 +19,7 @@ Publications and Preprints
 -----
 
 - <font size="4"> Visual Adversarial Examples Jailbreak Large Language Models </font>  <i> Xiangyu Qi\*, <b>Kaixuan Huang\*</b>, Ashwinee Panda, Mengdi Wang, Prateek Mittal </i>
-<br/> ICML 2023 Workshop on New Frontiers in Adversarial Machine Learning. <a href="https://arxiv.org/abs/2306.13213">[link]</a> <a href="https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models">[Code]</a> 
+<br/> ICML 2023 Workshop on New Frontiers in Adversarial Machine Learning. (<b>Oral</b>) <a href="https://arxiv.org/abs/2306.13213">[link]</a> <a href="https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models">[Code]</a> 
 
 - <font size="4"> Scaling In-Context Demonstrations with Structured Attention </font>  <i> Tianle Cai\*, <b>Kaixuan Huang\*</b>, Jason D. Lee, Mengdi Wang, Danqi Chen </i>
 <br/> ICML 2023 Workshop on Efficient Systems for Foundation Models. 
