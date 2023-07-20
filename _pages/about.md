@@ -24,6 +24,8 @@ Publications and Preprints
 - <font size="4"> Scaling In-Context Demonstrations with Structured Attention </font>  <i> Tianle Cai\*, <b>Kaixuan Huang\*</b>, Jason D. Lee, Mengdi Wang, Danqi Chen </i>
 <br/> ICML 2023 Workshop on Efficient Systems for Foundation Models. 
 
+- <font size="4"> Reward-Directed Conditional Diffusion: Provable Distribution Estimation and Reward Improvement </font>  <i> Hui Yuan, <b>Kaixuan Huang</b>, Chengzhuo Ni, Minshuo Chen, Mengdi Wang</i>
+<br/> arxiv preprint <a href="https://arxiv.org/abs/2307.07055">[link]</a> <a href="https://github.com/Kaffaljidhmah2/">[Code]</a> 
 
 - <font size="4"> Score Approximation, Estimation and Distribution Recovery of Diffusion Models on Low-Dimensional Data </font>  <i> Minshuo Chen\*, <b>Kaixuan Huang\*</b>, Tuo Zhao, Mengdi Wang </i>
 <br/> In <i>International Conference on Machine Learning</i> (ICML), 2023. <a href="https://arxiv.org/abs/2302.07194">[link]</a> 
