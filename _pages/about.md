@@ -15,14 +15,15 @@ I am interested in deep learning and artificial general intelligence. At a high 
 Currently, I am interested in diffusion models and large language models. I am open to possible cooperations or visiting opportunities. If you are interested, please contact me by email or [wechat](../files/wechat.jpg).
 
 
+
 Publications and Preprints 
 -----
 
 - <font size="4"> Visual Adversarial Examples Jailbreak Large Language Models </font>  <i> Xiangyu Qi\*, <b>Kaixuan Huang\*</b>, Ashwinee Panda, Mengdi Wang, Prateek Mittal </i>
 <br/> ICML 2023 Workshop on New Frontiers in Adversarial Machine Learning. (<b>Oral</b>) <a href="https://arxiv.org/abs/2306.13213">[link]</a> <a href="https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models">[Code]</a> 
 
-- <font size="4"> Scaling In-Context Demonstrations with Structured Attention </font>  <i> Tianle Cai\*, <b>Kaixuan Huang\*</b>, Jason D. Lee, Mengdi Wang, Danqi Chen </i>
-<br/> ICML 2023 Workshop on Efficient Systems for Foundation Models. 
+- <font size="4"> Scaling In-Context Demonstrations with Structured Attention </font>  <i> Tianle Cai\*, <b>Kaixuan Huang\*</b>, Jason D. Lee, Mengdi Wang </i>
+<br/> ICML 2023 Workshop on Efficient Systems for Foundation Models.  <a href="https://arxiv.org/abs/2307.02690">[link]</a>
 
 - <font size="4"> Reward-Directed Conditional Diffusion: Provable Distribution Estimation and Reward Improvement </font>  <i> Hui Yuan, <b>Kaixuan Huang</b>, Chengzhuo Ni, Minshuo Chen, Mengdi Wang</i>
 <br/> arxiv preprint <a href="https://arxiv.org/abs/2307.07055">[link]</a> <a href="https://github.com/Kaffaljidhmah2/">[Code]</a> 
@@ -56,6 +57,7 @@ Publications and Preprints
 <br/> In <i>International Conference on Learning Representations</i> (ICLR), 2020. (<b>Oral Presentation</b>) <a href="https://openreview.net/forum?id=HJxNAnVtDS">[link]</a>
 
  
+
 Contact Info
 ------
 
