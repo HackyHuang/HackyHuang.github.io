@@ -19,7 +19,10 @@ Currently, I am interested in diffusion models and large language models. I am o
 Publications and Preprints 
 -----
 
-- <font size="4"> Visual Adversarial Examples Jailbreak Large Language Models </font>  <i> Xiangyu Qi\*, <b>Kaixuan Huang\*</b>, Ashwinee Panda, Mengdi Wang, Prateek Mittal </i>
+- <font size="4"> Deep Reinforcement Learning for Efficient and Fair Allocation of Health Care Resources </font>  <i> Yikuan Li\*, Chengsheng Mao\*, <b>Kaixuan Huang\*</b>, Hanyin Wang\*, Zheng Yu\*, Mengdi Wang, Yuan Luo </i>
+<br/> arxiv preprint <a href="https://arxiv.org/abs/2309.08560">[link]</a>  
+
+- <font size="4"> Visual Adversarial Examples Jailbreak Large Language Models </font>  <i> Xiangyu Qi\*, <b>Kaixuan Huang\*</b>, Ashwinee Panda, Peter Henderson, Mengdi Wang, Prateek Mittal </i>
 <br/> ICML 2023 Workshop on New Frontiers in Adversarial Machine Learning. (<b>Oral</b>) <a href="https://arxiv.org/abs/2306.13213">[link]</a> <a href="https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models">[Code]</a> 
 
 - <font size="4"> Scaling In-Context Demonstrations with Structured Attention </font>  <i> Tianle Cai\*, <b>Kaixuan Huang\*</b>, Jason D. Lee, Mengdi Wang </i>
@@ -56,7 +59,15 @@ Publications and Preprints
 <i>Xiang Li\*, <b>Kaixuan Huang\*</b>, Wenhao Yang\*, Shusen Wang, Zhihua Zhang </i>
 <br/> In <i>International Conference on Learning Representations</i> (ICLR), 2020. (<b>Oral Presentation</b>) <a href="https://openreview.net/forum?id=HJxNAnVtDS">[link]</a>
 
- 
+
+Misc.
+-----
+
+I love classical music and I practice playing piano 40 hours a day.
+
+I implemented a tiny <a href="https://github.com/Kaffaljidhmah2/Arxiv-Recommender">[tool]</a> to help me filter out interesting daily arXiv papers.
+
+
 
 Contact Info
 ------
