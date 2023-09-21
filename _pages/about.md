@@ -29,7 +29,7 @@ Publications and Preprints
 <br/> ICML 2023 Workshop on Efficient Systems for Foundation Models.  <a href="https://arxiv.org/abs/2307.02690">[link]</a>
 
 - <font size="4"> Reward-Directed Conditional Diffusion: Provable Distribution Estimation and Reward Improvement </font>  <i> Hui Yuan, <b>Kaixuan Huang</b>, Chengzhuo Ni, Minshuo Chen, Mengdi Wang</i>
-<br/> arxiv preprint <a href="https://arxiv.org/abs/2307.07055">[link]</a> <a href="https://github.com/Kaffaljidhmah2/">[Code]</a> 
+<br/> In <i>Advances in Neural Information Processing Systems</i> (NeurIPS), 2023. <a href="https://arxiv.org/abs/2307.07055">[link]</a> <a href="https://github.com/Kaffaljidhmah2/RCGDM">[Code]</a> 
 
 - <font size="4"> Score Approximation, Estimation and Distribution Recovery of Diffusion Models on Low-Dimensional Data </font>  <i> Minshuo Chen\*, <b>Kaixuan Huang\*</b>, Tuo Zhao, Mengdi Wang </i>
 <br/> In <i>International Conference on Machine Learning</i> (ICML), 2023. <a href="https://arxiv.org/abs/2302.07194">[link]</a> 
