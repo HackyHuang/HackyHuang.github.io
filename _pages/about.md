@@ -19,8 +19,6 @@ Currently, I am interested in diffusion models and large language models. I am o
 Publications and Preprints 
 -----
 
-- <font size="4"> Deep Reinforcement Learning for Efficient and Fair Allocation of Health Care Resources </font>  <i> Yikuan Li\*, Chengsheng Mao\*, <b>Kaixuan Huang\*</b>, Hanyin Wang\*, Zheng Yu\*, Mengdi Wang, Yuan Luo </i>
-<br/> arxiv preprint <a href="https://arxiv.org/abs/2309.08560">[link]</a>  
 
 - <font size="4"> Visual Adversarial Examples Jailbreak Large Language Models </font>  <i> Xiangyu Qi\*, <b>Kaixuan Huang\*</b>, Ashwinee Panda, Peter Henderson, Mengdi Wang, Prateek Mittal </i>
 <br/> ICML 2023 Workshop on New Frontiers in Adversarial Machine Learning. (<b>Oral</b>) <a href="https://arxiv.org/abs/2306.13213">[link]</a> <a href="https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models">[Code]</a> 
@@ -34,6 +32,11 @@ Publications and Preprints
 - <font size="4"> Score Approximation, Estimation and Distribution Recovery of Diffusion Models on Low-Dimensional Data </font>  <i> Minshuo Chen\*, <b>Kaixuan Huang\*</b>, Tuo Zhao, Mengdi Wang </i>
 <br/> In <i>International Conference on Machine Learning</i> (ICML), 2023. <a href="https://arxiv.org/abs/2302.07194">[link]</a> 
 
+- <font size="4"> A 5' UTR Language Model for Decoding Untranslated Regions of mRNA and Function Predictions </font>  <i> Yanyi Chu\*, Dan Yu\*, Yupeng Li, <b>Kaixuan Huang</b>, Yue Shen, Le Cong, Jason Zhang, Mengdi Wang</i>
+<br/> In Submission. <a href="https://arxiv.org/abs/2310.03281">[link]</a>  
+
+- <font size="4"> Deep Reinforcement Learning for Efficient and Fair Allocation of Health Care Resources </font>  <i> Yikuan Li\*, Chengsheng Mao\*, <b>Kaixuan Huang\*</b>, Hanyin Wang\*, Zheng Yu\*, Mengdi Wang, Yuan Luo </i>
+<br/> arxiv preprint <a href="https://arxiv.org/abs/2309.08560">[link]</a>  
 
 - <font size="4"> Deep Reinforcement Learning for Cost-Effective Medical Diagnosis </font>  <i> Zheng Yu\*, Yikuan Li\*, Joseph Kim\*, <b>Kaixuan Huang\*</b>, Yuan Luo, Mengdi Wang </i>
 <br/> In <i>International Conference on Learning Representations</i> (ICLR), 2023. <a href="https://openreview.net/forum?id=0WVNuEnqVu">[link]</a> 
