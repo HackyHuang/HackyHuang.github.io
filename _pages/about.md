@@ -16,7 +16,7 @@ Currently, I am interested in diffusion models and large language models. I am o
 
 
 
-Publications and Preprints 
+Selected Publications
 -----
 
 
@@ -31,25 +31,6 @@ Publications and Preprints
 
 - <font size="4"> Score Approximation, Estimation and Distribution Recovery of Diffusion Models on Low-Dimensional Data </font>  <i> Minshuo Chen\*, <b>Kaixuan Huang\*</b>, Tuo Zhao, Mengdi Wang </i>
 <br/> In <i>International Conference on Machine Learning</i> (ICML), 2023. <a href="https://arxiv.org/abs/2302.07194">[link]</a> 
-
-- <font size="4"> A 5' UTR Language Model for Decoding Untranslated Regions of mRNA and Function Predictions </font>  <i> Yanyi Chu\*, Dan Yu\*, Yupeng Li, <b>Kaixuan Huang</b>, Yue Shen, Le Cong, Jason Zhang, Mengdi Wang</i>
-<br/> In Submission. <a href="https://arxiv.org/abs/2310.03281">[link]</a>  
-
-- <font size="4"> Deep Reinforcement Learning for Efficient and Fair Allocation of Health Care Resources </font>  <i> Yikuan Li\*, Chengsheng Mao\*, <b>Kaixuan Huang\*</b>, Hanyin Wang\*, Zheng Yu\*, Mengdi Wang, Yuan Luo </i>
-<br/> arxiv preprint <a href="https://arxiv.org/abs/2309.08560">[link]</a>  
-
-- <font size="4"> Deep Reinforcement Learning for Cost-Effective Medical Diagnosis </font>  <i> Zheng Yu\*, Yikuan Li\*, Joseph Kim\*, <b>Kaixuan Huang\*</b>, Yuan Luo, Mengdi Wang </i>
-<br/> In <i>International Conference on Learning Representations</i> (ICLR), 2023. <a href="https://openreview.net/forum?id=0WVNuEnqVu">[link]</a> 
-
-- <font size="4"> Going Beyond Linear RL: Sample Efficient Neural Function Approximation </font>  <i> Baihe Huang, <b>Kaixuan Huang</b>, Sham M. Kakade, Jason D. Lee, Qi Lei, Runzhe Wang, Jiaqi Yang </i> (alphabetical)
-<br/> In <i>Advances in Neural Information Processing Systems</i> (NeurIPS), 2021. <a href="https://arxiv.org/abs/2107.06466">[link]</a> 
-
-
-- <font size="4"> Optimal Gradient-based Algorithms for Non-concave Bandit Optimization </font>  <i> Baihe Huang, <b>Kaixuan Huang</b>, Sham M. Kakade, Jason D. Lee, Qi Lei, Runzhe Wang, Jiaqi Yang </i> (alphabetical)
-<br/> In <i>Advances in Neural Information Processing Systems</i> (NeurIPS), 2021. <a href="https://arxiv.org/abs/2107.04518">[link]</a> 
-
-- <font size="4"> A Short Note on the Relationship of Information Gain and Eluder Dimension </font>  <i> <b>Kaixuan Huang</b>, Sham M. Kakade, Jason D. Lee, Qi Lei </i> (alphabetical)
-<br/> ICML2021 Workshop on Reinforcement Learning Theory. <a href="https://arxiv.org/abs/2107.02377">[link]</a> 
 
 - <font size="4"> Fast Federated Learning in the Presence of Arbitrary Device Unavailability </font>  <i> Xinran Gu\*, <b>Kaixuan Huang\*</b>, Jingzhao Zhang, Longbo Huang </i>
 <br/> In <i>Advances in Neural Information Processing Systems</i> (NeurIPS), 2021. <a href="https://arxiv.org/abs/2106.04159">[link]</a> 
