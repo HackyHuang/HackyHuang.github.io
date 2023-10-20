@@ -23,7 +23,7 @@ Publications and Preprints
 <br/> In <i>International Conference on Machine Learning</i> (ICML), 2023. <a href="https://arxiv.org/abs/2302.07194">[link]</a> 
 
 - <font size="4"> A 5' UTR Language Model for Decoding Untranslated Regions of mRNA and Function Predictions </font>  <i> Yanyi Chu\*, Dan Yu\*, Yupeng Li, <b>Kaixuan Huang</b>, Yue Shen, Le Cong, Jason Zhang, Mengdi Wang</i>
-<br/> In Submission. <a href="https://arxiv.org/abs/2310.03281">[link]</a>  
+<br/> In Submission. <a href="https://www.biorxiv.org/content/10.1101/2023.10.11.561938v1.abstract">[link]</a>  
 
 - <font size="4"> Deep Reinforcement Learning for Efficient and Fair Allocation of Health Care Resources </font>  <i> Yikuan Li\*, Chengsheng Mao\*, <b>Kaixuan Huang\*</b>, Hanyin Wang\*, Zheng Yu\*, Mengdi Wang, Yuan Luo </i>
 <br/> arxiv preprint <a href="https://arxiv.org/abs/2309.08560">[link]</a>  

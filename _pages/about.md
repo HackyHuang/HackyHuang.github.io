@@ -52,6 +52,7 @@ I love classical music and I practice playing piano 40 hours a day.
 I implemented a tiny <a href="https://github.com/Kaffaljidhmah2/Arxiv-Recommender">[tool]</a> to help me filter out interesting daily arXiv papers.
 
 
+<img src="https://ghchart.rshah.org/Kaffaljidhmah2" alt="Kaixuan's Github chart" />
 
 Contact Info
 ------
