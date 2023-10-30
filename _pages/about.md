@@ -10,9 +10,8 @@ redirect_from:
 
 I am Kaixuan Huang (黄凯旋), a Ph.D. student in Electrical and Computer Engineering Department at Princeton University. I am fortunate to be advised by Professor [Mengdi Wang](https://mwang.princeton.edu/). Before that, I received B.S. in Mathematics and B.S. in Computer Science from Peking University. I was advised by Prof. Zhihua Zhang while doing undergraduate research. In 2019, I visited Georgia Tech as a research intern, supervised by Prof. [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/). In 2020, I visited Tsinghua University as a research intern, supervised by Prof. [Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/). I also worked closely with Prof. [Jason Lee](https://jasondlee88.github.io/).
 
-I am interested in deep learning and artificial general intelligence. At a high level, my research aim at (1) understanding the interplay between network model structures and data intrinsic structures, and how it influences the generalization and extrapolation behaviors of the neural networks, (2) understanding the forms of human perception, knowledge, reasoning, and decision-making, and how to design next-generation AGI systems that are more human-like.
  
-Currently, I am interested in diffusion models and large language models. I am open to possible cooperations or visiting opportunities. If you are interested, please contact me by email or [wechat](../files/wechat.jpg).
+My research interest is RL for foundation models (e.g., offline learning/online reward improvement for diffusion models/language models) and foudation models for RL (LLM/VLM agents). I am open to possible cooperations or visiting opportunities. If you are interested, please contact me by email or [wechat](../files/wechat.jpg).
 
 
 
@@ -51,6 +50,8 @@ I love classical music and I practice playing piano 40 hours a day.
 
 I implemented a tiny <a href="https://github.com/Kaffaljidhmah2/Arxiv-Recommender">[tool]</a> to help me filter out interesting daily arXiv papers.
 
+My philosophical thoughts: (1) the interplay between network model structures and data intrinsic structures, and the generalization and extrapolation behaviors of the neural networks --- this resembles how humans' scientific discoveries match the real physical world, which has been investiaged by great philosophiers such as <a href="https://en.wikipedia.org/wiki/Critique_of_Pure_Reason">Immanuel Kant</a>. The forms of human perception, knowledge, reasoning, and decision-making have
+also been studied by fields outside computer science.
 
 <img src="https://ghchart.rshah.org/Kaffaljidhmah2" alt="Kaixuan's Github chart" />
 
