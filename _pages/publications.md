@@ -9,6 +9,11 @@ author_profile: true
 Publications and Preprints 
 -----
 
+- <font size="4"> Embodied LLM Agents Learn to Cooperate in Organized Teams </font>  <i> Xudong Guo, <b>Kaixuan Huang</b>, Jiale Liu, Wenhui Fan, Natalia Vélez, Qingyun Wu, Huazheng Wang, Thomas L. Griffiths, Mengdi Wang </i>
+<br/> arXiv preprint <a href="https://arxiv.org/abs/2403.12482">[link]</a>
+
+- <font size="4"> Assessing the Brittleness of Safety Alignment via Pruning and Low-Rank Modifications </font>  <i> Boyi Wei\*, <b>Kaixuan Huang\*</b>, Yangsibo Huang\*, Tinghao Xie, Xiangyu Qi, Mengzhou Xia, Prateek Mittal, Mengdi Wang, Peter Henderson </i>
+<br/> arXiv preprint <a href="https://arxiv.org/abs/2402.05162">[link]</a> <a href="https://github.com/boyiwei/alignment-attribution-code">[Code]</a> 
 
 - <font size="4"> Visual Adversarial Examples Jailbreak Large Language Models </font>  <i> Xiangyu Qi\*, <b>Kaixuan Huang\*</b>, Ashwinee Panda, Peter Henderson, Mengdi Wang, Prateek Mittal </i>
 <br/> ICML 2023 Workshop on New Frontiers in Adversarial Machine Learning. (<b>Oral</b>) <a href="https://arxiv.org/abs/2306.13213">[link]</a> <a href="https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models">[Code]</a> 
@@ -23,7 +28,7 @@ Publications and Preprints
 <br/> In <i>International Conference on Machine Learning</i> (ICML), 2023. <a href="https://arxiv.org/abs/2302.07194">[link]</a> 
 
 - <font size="4"> A 5' UTR Language Model for Decoding Untranslated Regions of mRNA and Function Predictions </font>  <i> Yanyi Chu\*, Dan Yu\*, Yupeng Li, <b>Kaixuan Huang</b>, Yue Shen, Le Cong, Jason Zhang, Mengdi Wang</i>
-<br/> In Submission. <a href="https://www.biorxiv.org/content/10.1101/2023.10.11.561938v1.abstract">[link]</a>  
+<br/> Nature Machine Intelligence. To appear. <a href="https://www.biorxiv.org/content/10.1101/2023.10.11.561938v1.abstract">[link]</a>  
 
 - <font size="4"> Deep Reinforcement Learning for Efficient and Fair Allocation of Health Care Resources </font>  <i> Yikuan Li\*, Chengsheng Mao\*, <b>Kaixuan Huang\*</b>, Hanyin Wang\*, Zheng Yu\*, Mengdi Wang, Yuan Luo </i>
 <br/> arxiv preprint <a href="https://arxiv.org/abs/2309.08560">[link]</a>  

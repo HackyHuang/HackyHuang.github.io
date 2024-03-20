@@ -14,10 +14,23 @@ I am Kaixuan Huang (黄凯旋), a Ph.D. student in Electrical and Computer Engin
 My research interest is RL for foundation models (e.g., offline learning/online reward improvement for diffusion models/language models) and foudation models for RL (LLM/VLM agents). I am open to possible cooperations or visiting opportunities. If you are interested, please contact me by email or [wechat](../files/wechat.jpg).
 
 
+News
+-----
+
+- 03/2024: I started my internship at Google DeepMind!
+
 
 Selected Publications
 -----
 
+- <font size="4"> Embodied LLM Agents Learn to Cooperate in Organized Teams </font>  <i> Xudong Guo, <b>Kaixuan Huang</b>, Jiale Liu, Wenhui Fan, Natalia Vélez, Qingyun Wu, Huazheng Wang, Thomas L. Griffiths, Mengdi Wang </i>
+<br/> arXiv preprint <a href="https://arxiv.org/abs/2403.12482">[link]</a>
+
+- <font size="4"> Assessing the Brittleness of Safety Alignment via Pruning and Low-Rank Modifications </font>  <i> Boyi Wei\*, <b>Kaixuan Huang\*</b>, Yangsibo Huang\*, Tinghao Xie, Xiangyu Qi, Mengzhou Xia, Prateek Mittal, Mengdi Wang, Peter Henderson </i>
+<br/> arXiv preprint <a href="https://arxiv.org/abs/2402.05162">[link]</a> <a href="https://github.com/boyiwei/alignment-attribution-code">[Code]</a> 
+
+- <font size="4"> A 5' UTR Language Model for Decoding Untranslated Regions of mRNA and Function Predictions </font>  <i> Yanyi Chu\*, Dan Yu\*, Yupeng Li, <b>Kaixuan Huang</b>, Yue Shen, Le Cong, Jason Zhang, Mengdi Wang</i>
+<br/> Nature Machine Intelligence. To appear. <a href="https://www.biorxiv.org/content/10.1101/2023.10.11.561938v1.abstract">[link]</a> 
 
 - <font size="4"> Visual Adversarial Examples Jailbreak Large Language Models </font>  <i> Xiangyu Qi\*, <b>Kaixuan Huang\*</b>, Ashwinee Panda, Peter Henderson, Mengdi Wang, Prateek Mittal </i>
 <br/> ICML 2023 Workshop on New Frontiers in Adversarial Machine Learning. (<b>Oral</b>) <a href="https://arxiv.org/abs/2306.13213">[link]</a> <a href="https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models">[Code]</a> 
