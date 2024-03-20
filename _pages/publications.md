@@ -16,7 +16,7 @@ Publications and Preprints
 <br/> arXiv preprint <a href="https://arxiv.org/abs/2402.05162">[link]</a> <a href="https://github.com/boyiwei/alignment-attribution-code">[Code]</a> 
 
 - <font size="4"> Visual Adversarial Examples Jailbreak Large Language Models </font>  <i> Xiangyu Qi\*, <b>Kaixuan Huang\*</b>, Ashwinee Panda, Peter Henderson, Mengdi Wang, Prateek Mittal </i>
-<br/> ICML 2023 Workshop on New Frontiers in Adversarial Machine Learning. (<b>Oral</b>) <a href="https://arxiv.org/abs/2306.13213">[link]</a> <a href="https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models">[Code]</a> 
+<br/> AAAI 2024 (<b> Oral </b>) ICML2023 Adv ML workshop. (<b>Oral</b>) <a href="https://arxiv.org/abs/2306.13213">[link]</a> <a href="https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models">[Code]</a> 
 
 - <font size="4"> Scaling In-Context Demonstrations with Structured Attention </font>  <i> Tianle Cai\*, <b>Kaixuan Huang\*</b>, Jason D. Lee, Mengdi Wang </i>
 <br/> ICML 2023 Workshop on Efficient Systems for Foundation Models.  <a href="https://arxiv.org/abs/2307.02690">[link]</a>
