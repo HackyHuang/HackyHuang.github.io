@@ -30,7 +30,7 @@ Selected Publications
 <br/> arXiv preprint <a href="https://arxiv.org/abs/2402.05162">[link]</a> <a href="https://github.com/boyiwei/alignment-attribution-code">[Code]</a> 
 
 - <font size="4"> A 5' UTR Language Model for Decoding Untranslated Regions of mRNA and Function Predictions </font>  <i> Yanyi Chu\*, Dan Yu\*, Yupeng Li, <b>Kaixuan Huang</b>, Yue Shen, Le Cong, Jason Zhang, Mengdi Wang</i>
-<br/> Nature Machine Intelligence. To appear. <a href="https://www.biorxiv.org/content/10.1101/2023.10.11.561938v1.abstract">[link]</a> 
+<br/> Nature Machine Intelligence (2024) <a href="https://www.nature.com/articles/s42256-024-00823-9">[link]</a> 
 
 - <font size="4"> Visual Adversarial Examples Jailbreak Large Language Models </font>  <i> Xiangyu Qi\*, <b>Kaixuan Huang\*</b>, Ashwinee Panda, Peter Henderson, Mengdi Wang, Prateek Mittal </i>
 <br/> AAAI 2024 (<b> Oral </b>) ICML2023 Adv ML workshop. (<b>Oral</b>) <a href="https://arxiv.org/abs/2306.13213">[link]</a> <a href="https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models">[Code]</a> 
