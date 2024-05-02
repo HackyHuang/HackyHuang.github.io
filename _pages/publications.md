@@ -16,7 +16,7 @@ Publications and Preprints
 <br/> arXiv preprint <a href="https://arxiv.org/abs/2403.12482">[link]</a>
 
 - <font size="4"> Assessing the Brittleness of Safety Alignment via Pruning and Low-Rank Modifications </font>  <i> Boyi Wei\*, <b>Kaixuan Huang\*</b>, Yangsibo Huang\*, Tinghao Xie, Xiangyu Qi, Mengzhou Xia, Prateek Mittal, Mengdi Wang, Peter Henderson </i>
-<br/> arXiv preprint <a href="https://arxiv.org/abs/2402.05162">[link]</a> <a href="https://github.com/boyiwei/alignment-attribution-code">[Code]</a> 
+<br/> ICML 2024 <a href="https://arxiv.org/abs/2402.05162">[link]</a> <a href="https://github.com/boyiwei/alignment-attribution-code">[Code]</a> 
 
 - <font size="4"> Visual Adversarial Examples Jailbreak Large Language Models </font>  <i> Xiangyu Qi\*, <b>Kaixuan Huang\*</b>, Ashwinee Panda, Peter Henderson, Mengdi Wang, Prateek Mittal </i>
 <br/> AAAI 2024 (<b> Oral </b>) ICML2023 Adv ML workshop. (<b>Oral</b>) <a href="https://arxiv.org/abs/2306.13213">[link]</a> <a href="https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models">[Code]</a> 

@@ -27,7 +27,7 @@ Selected Publications
 <br/> arXiv preprint <a href="https://arxiv.org/abs/2403.12482">[link]</a>
 
 - <font size="4"> Assessing the Brittleness of Safety Alignment via Pruning and Low-Rank Modifications </font>  <i> Boyi Wei\*, <b>Kaixuan Huang\*</b>, Yangsibo Huang\*, Tinghao Xie, Xiangyu Qi, Mengzhou Xia, Prateek Mittal, Mengdi Wang, Peter Henderson </i>
-<br/> arXiv preprint <a href="https://arxiv.org/abs/2402.05162">[link]</a> <a href="https://github.com/boyiwei/alignment-attribution-code">[Code]</a> 
+<br/> ICML 2024 <a href="https://arxiv.org/abs/2402.05162">[link]</a> <a href="https://github.com/boyiwei/alignment-attribution-code">[Code]</a> 
 
 - <font size="4"> A 5' UTR Language Model for Decoding Untranslated Regions of mRNA and Function Predictions </font>  <i> Yanyi Chu\*, Dan Yu\*, Yupeng Li, <b>Kaixuan Huang</b>, Yue Shen, Le Cong, Jason Zhang, Mengdi Wang</i>
 <br/> Nature Machine Intelligence (2024) <a href="https://www.nature.com/articles/s42256-024-00823-9">[link]</a> 
