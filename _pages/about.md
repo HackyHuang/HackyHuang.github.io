@@ -11,7 +11,7 @@ redirect_from:
 I am Kaixuan Huang (黄凯旋), a Ph.D. student in Electrical and Computer Engineering Department at Princeton University. I am fortunate to be advised by Professor [Mengdi Wang](https://mwang.princeton.edu/). Before that, I received B.S. in Mathematics and B.S. in Computer Science from Peking University. I was advised by Prof. Zhihua Zhang while doing undergraduate research. In 2019, I visited Georgia Tech as a research intern, supervised by Prof. [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/). In 2020, I visited Tsinghua University as a research intern, supervised by Prof. [Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/). I also worked closely with Prof. [Jason Lee](https://jasondlee88.github.io/).
 
  
-My research interest is RL for foundation models (e.g., offline learning/online reward improvement for diffusion models/language models) and foudation models for RL (LLM/VLM agents). I am open to possible cooperations or visiting opportunities. If you are interested, please contact me by email or [wechat](../files/wechat.jpg).
+My research interest is RL for foundation models (e.g., RLHF for diffusion models/language models) and foudation models for RL (LLM/VLM agents). I am open to possible cooperations or visiting opportunities. If you are interested, please contact me by email or [wechat](../files/wechat.jpg).
 
 
 News
@@ -22,6 +22,10 @@ News
 
 Selected Publications
 -----
+
+- <font size="4"> CRISPR-GPT: An LLM Agent for Automated Design of Gene-Editing Experiments </font>  <i> <b>Kaixuan Huang\*</b>, , Yuanhao Qu\*, Henry Cousins, William A. Johnson, Di Yin, Mihir Shah, Denny Zhou, Russ Altman, Mengdi Wang, Le Cong</i>
+<br/> arXiv preprint <a href="https://arxiv.org/abs/2404.18021">[link]</a>
+
 
 - <font size="4"> Embodied LLM Agents Learn to Cooperate in Organized Teams </font>  <i> Xudong Guo, <b>Kaixuan Huang</b>, Jiale Liu, Wenhui Fan, Natalia Vélez, Qingyun Wu, Huazheng Wang, Thomas L. Griffiths, Mengdi Wang </i>
 <br/> arXiv preprint <a href="https://arxiv.org/abs/2403.12482">[link]</a>

@@ -12,6 +12,9 @@ Publications and Preprints
 
 ## Language Models
 
+- <font size="4"> CRISPR-GPT: An LLM Agent for Automated Design of Gene-Editing Experiments </font>  <i> <b>Kaixuan Huang\*</b>, , Yuanhao Qu\*, Henry Cousins, William A. Johnson, Di Yin, Mihir Shah, Denny Zhou, Russ Altman, Mengdi Wang, Le Cong</i>
+<br/> arXiv preprint <a href="https://arxiv.org/abs/2404.18021">[link]</a>
+
 - <font size="4"> Embodied LLM Agents Learn to Cooperate in Organized Teams </font>  <i> Xudong Guo, <b>Kaixuan Huang</b>, Jiale Liu, Wenhui Fan, Natalia Vélez, Qingyun Wu, Huazheng Wang, Thomas L. Griffiths, Mengdi Wang </i>
 <br/> arXiv preprint <a href="https://arxiv.org/abs/2403.12482">[link]</a>
 
@@ -33,6 +36,9 @@ Publications and Preprints
 <br/> In <i>International Conference on Machine Learning</i> (ICML), 2023. <a href="https://arxiv.org/abs/2302.07194">[link]</a> 
 
 ## AI for Sciences
+
+- <font size="4"> CRISPR-GPT: An LLM Agent for Automated Design of Gene-Editing Experiments </font>  <i> <b>Kaixuan Huang\*</b>, , Yuanhao Qu\*, Henry Cousins, William A. Johnson, Di Yin, Mihir Shah, Denny Zhou, Russ Altman, Mengdi Wang, Le Cong</i>
+<br/> arXiv preprint <a href="https://arxiv.org/abs/2404.18021">[link]</a>
 
 - <font size="4"> A 5' UTR Language Model for Decoding Untranslated Regions of mRNA and Function Predictions </font>  <i> Yanyi Chu\*, Dan Yu\*, Yupeng Li, <b>Kaixuan Huang</b>, Yue Shen, Le Cong, Jason Zhang, Mengdi Wang</i>
 <br/> Nature Machine Intelligence (2024) <a href="https://www.nature.com/articles/s42256-024-00823-9">[link]</a> 
