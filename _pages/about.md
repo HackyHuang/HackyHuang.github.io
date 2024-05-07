@@ -23,7 +23,7 @@ News
 Selected Publications
 -----
 
-- <font size="4"> CRISPR-GPT: An LLM Agent for Automated Design of Gene-Editing Experiments </font>  <i> <b>Kaixuan Huang\*</b>, , Yuanhao Qu\*, Henry Cousins, William A. Johnson, Di Yin, Mihir Shah, Denny Zhou, Russ Altman, Mengdi Wang, Le Cong</i>
+- <font size="4"> CRISPR-GPT: An LLM Agent for Automated Design of Gene-Editing Experiments </font>  <i> <b>Kaixuan Huang\*</b>, Yuanhao Qu\*, Henry Cousins, William A. Johnson, Di Yin, Mihir Shah, Denny Zhou, Russ Altman, Mengdi Wang, Le Cong</i>
 <br/> arXiv preprint <a href="https://arxiv.org/abs/2404.18021">[link]</a>
 
 
