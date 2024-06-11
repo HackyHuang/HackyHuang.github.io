@@ -12,6 +12,16 @@ Publications and Preprints
 
 ## Language Models
 
+
+- <font size="4"> SpecDec++: Boosting Speculative Decoding via Adaptive Candidate Lengths </font>  <i> <b>Kaixuan Huang </b>, Xudong Guo, Mengdi Wang</i>
+<br/> arXiv preprint <a href="https://arxiv.org/abs/2405.19715">[link]</a>
+
+
+- <font size="4"> AI Risk Management Should Incorporate Both Safety and Security </font>  <i> Xiangyu Qi, Yangsibo Huang, Yi Zeng, Edoardo Debenedetti, Jonas Geiping, Luxi He, <b> Kaixuan Huang </b>, Udari Madhushani, Vikash Sehwag, Weijia Shi, Boyi Wei, Tinghao Xie, Danqi Chen, Pin-Yu Chen, Jeffrey Ding, Ruoxi Jia, Jiaqi Ma, Arvind Narayanan, Weijie J Su, Mengdi Wang, Chaowei Xiao, Bo Li, Dawn Song, Peter Henderson, Prateek Mittal </i>
+<br/> arXiv preprint <a href="https://arxiv.org/abs/2405.19524">[link]</a>
+
+
+
 - <font size="4"> CRISPR-GPT: An LLM Agent for Automated Design of Gene-Editing Experiments </font>  <i> <b>Kaixuan Huang\*</b>, Yuanhao Qu\*, Henry Cousins, William A. Johnson, Di Yin, Mihir Shah, Denny Zhou, Russ Altman, Mengdi Wang, Le Cong</i>
 <br/> arXiv preprint <a href="https://arxiv.org/abs/2404.18021">[link]</a>
 
