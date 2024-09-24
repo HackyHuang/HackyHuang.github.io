@@ -17,7 +17,7 @@ My research interest is RL for foundation models (e.g., RLHF for diffusion model
 News
 -----
 
-- 03/2024: I started my internship at Google DeepMind!
+- 03/2024: I started my internship at Google DeepMind, working with Zheng Wen and Csaba Szepesvari.
 
 
 Selected Publications
