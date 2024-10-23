@@ -17,15 +17,27 @@ My research interest is RL for foundation models (e.g., RLHF for diffusion model
 News
 -----
 
+- 10/2024: I will give a talk at INFORMS 2024 about CRISPR-GPT.
 - 03/2024: I started my internship at Google DeepMind, working with Zheng Wen and Csaba Szepesvari.
 
 
 Selected Publications
 -----
 
+- <font size="4"> A Theoretical Perspective for Speculative Decoding Algorithm </font>  <i> Ming Yin, Minshuo Chen, <b>Kaixuan Huang</b>, and Mengdi Wang </i>
+<br/> NeurIPS 2024 <a href="https://arxiv.org/">[link]</a>
+
+
+- <font size="4"> Latent Diffusion Models for Controllable RNA Sequence Generation </font>  <i> <b>Kaixuan Huang\*</b>, Yukang Yang\*, Kaidi Fu, Yanyi Chu, Le Cong, Mengdi Wang </i>
+<br/> arXiv preprint <a href="https://arxiv.org/abs/2409.09828">[link]</a>
+
+
+- <font size="4"> SORRY-Bench: Systematically Evaluating Large Language Model Safety Refusal Behaviors </font>  <i> Tinghao Xie, Xiangyu Qi, Yi Zeng, Yangsibo Huang, Udari Madhushani Sehwag, <b>Kaixuan Huang </b>, Luxi He, Boyi Wei, Dacheng Li, Ying Sheng, Ruoxi Jia, Bo Li, Kai Li, Danqi Chen, Peter Henderson, Prateek Mittal </i>
+<br/> arXiv preprint <a href="https://arxiv.org/abs/2405.19524">[link]</a> <a href="https://sorry-bench.github.io/">[Website]</a> 
+
 
 - <font size="4"> SpecDec++: Boosting Speculative Decoding via Adaptive Candidate Lengths </font>  <i> <b>Kaixuan Huang </b>, Xudong Guo, Mengdi Wang</i>
-<br/> arXiv preprint <a href="https://arxiv.org/abs/2405.19715">[link]</a>
+<br/> ICML 2024 workshop on Efficient Systems for Foundation Models (ES-FoMo) <a href="https://arxiv.org/abs/2405.19715">[link]</a> <a href="https://github.com/Kaffaljidhmah2/SpecDec_pp/">[Code]</a> 
 
 
 - <font size="4"> AI Risk Management Should Incorporate Both Safety and Security </font>  <i> Xiangyu Qi, Yangsibo Huang, Yi Zeng, Edoardo Debenedetti, Jonas Geiping, Luxi He, <b> Kaixuan Huang </b>, Udari Madhushani, Vikash Sehwag, Weijia Shi, Boyi Wei, Tinghao Xie, Danqi Chen, Pin-Yu Chen, Jeffrey Ding, Ruoxi Jia, Jiaqi Ma, Arvind Narayanan, Weijie J Su, Mengdi Wang, Chaowei Xiao, Bo Li, Dawn Song, Peter Henderson, Prateek Mittal </i>
