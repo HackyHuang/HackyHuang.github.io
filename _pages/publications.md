@@ -17,7 +17,7 @@ Publications and Preprints
 
 
 - <font size="4"> Latent Diffusion Models for Controllable RNA Sequence Generation </font>  <i> <b>Kaixuan Huang\*</b>, Yukang Yang\*, Kaidi Fu, Yanyi Chu, Le Cong, Mengdi Wang </i>
-<br/> arXiv preprint <a href="https://arxiv.org/abs/2409.09828">[link]</a>
+<br/> NeurIPS 2024 Workshop on AI for New Drug Modalities <a href="https://arxiv.org/abs/2409.09828">[link]</a>
 
 
 - <font size="4"> SORRY-Bench: Systematically Evaluating Large Language Model Safety Refusal Behaviors </font>  <i> Tinghao Xie, Xiangyu Qi, Yi Zeng, Yangsibo Huang, Udari Madhushani Sehwag, <b>Kaixuan Huang </b>, Luxi He, Boyi Wei, Dacheng Li, Ying Sheng, Ruoxi Jia, Bo Li, Kai Li, Danqi Chen, Peter Henderson, Prateek Mittal </i>
@@ -49,7 +49,7 @@ Publications and Preprints
 ## Diffusion Models
 
 - <font size="4"> Latent Diffusion Models for Controllable RNA Sequence Generation </font>  <i> <b>Kaixuan Huang\*</b>, Yukang Yang\*, Kaidi Fu, Yanyi Chu, Le Cong, Mengdi Wang </i>
-<br/> arXiv preprint <a href="https://arxiv.org/abs/2409.09828">[link]</a>
+<br/> NeurIPS 2024 Workshop on AI for New Drug Modalities <a href="https://arxiv.org/abs/2409.09828">[link]</a>
 
 - <font size="4"> Reward-Directed Conditional Diffusion: Provable Distribution Estimation and Reward Improvement </font>  <i> Hui Yuan, <b>Kaixuan Huang</b>, Chengzhuo Ni, Minshuo Chen, Mengdi Wang</i>
 <br/> In <i>Advances in Neural Information Processing Systems</i> (NeurIPS), 2023. <a href="https://arxiv.org/abs/2307.07055">[link]</a> <a href="https://github.com/Kaffaljidhmah2/RCGDM">[Code]</a> 
@@ -60,7 +60,7 @@ Publications and Preprints
 ## AI for Sciences
 
 - <font size="4"> Latent Diffusion Models for Controllable RNA Sequence Generation </font>  <i> <b>Kaixuan Huang\*</b>, Yukang Yang\*, Kaidi Fu, Yanyi Chu, Le Cong, Mengdi Wang </i>
-<br/> arXiv preprint <a href="https://arxiv.org/abs/2409.09828">[link]</a>
+<br/> NeurIPS 2024 Workshop on AI for New Drug Modalities <a href="https://arxiv.org/abs/2409.09828">[link]</a>
 
 - <font size="4"> CRISPR-GPT: An LLM Agent for Automated Design of Gene-Editing Experiments </font>  <i> <b>Kaixuan Huang\*</b>, Yuanhao Qu\*, Henry Cousins, William A. Johnson, Di Yin, Mihir Shah, Denny Zhou, Russ Altman, Mengdi Wang, Le Cong</i>
 <br/> arXiv preprint <a href="https://arxiv.org/abs/2404.18021">[link]</a>

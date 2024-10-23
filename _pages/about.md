@@ -29,7 +29,7 @@ Selected Publications
 
 
 - <font size="4"> Latent Diffusion Models for Controllable RNA Sequence Generation </font>  <i> <b>Kaixuan Huang\*</b>, Yukang Yang\*, Kaidi Fu, Yanyi Chu, Le Cong, Mengdi Wang </i>
-<br/> arXiv preprint <a href="https://arxiv.org/abs/2409.09828">[link]</a>
+<br/> NeurIPS 2024 Workshop on AI for New Drug Modalities <a href="https://arxiv.org/abs/2409.09828">[link]</a>
 
 
 - <font size="4"> SORRY-Bench: Systematically Evaluating Large Language Model Safety Refusal Behaviors </font>  <i> Tinghao Xie, Xiangyu Qi, Yi Zeng, Yangsibo Huang, Udari Madhushani Sehwag, <b>Kaixuan Huang </b>, Luxi He, Boyi Wei, Dacheng Li, Ying Sheng, Ruoxi Jia, Bo Li, Kai Li, Danqi Chen, Peter Henderson, Prateek Mittal </i>
