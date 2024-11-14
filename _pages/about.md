@@ -11,12 +11,13 @@ redirect_from:
 I am Kaixuan Huang (黄凯旋), a Ph.D. student in Electrical and Computer Engineering Department at Princeton University. I am fortunate to be advised by Professor [Mengdi Wang](https://mwang.princeton.edu/). Before that, I received B.S. in Mathematics and B.S. in Computer Science from Peking University. I was advised by Prof. Zhihua Zhang while doing undergraduate research. In 2019, I visited Georgia Tech as a research intern, supervised by Prof. [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/). In 2020, I visited Tsinghua University as a research intern, supervised by Prof. [Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/). I also worked closely with Prof. [Jason Lee](https://jasondlee88.github.io/).
 
  
-My research interest is RL for foundation models (e.g., RLHF for diffusion models/language models) and foudation models for RL (LLM/VLM agents). I am open to possible cooperations or visiting opportunities. If you are interested, please contact me by email or [wechat](../files/wechat.jpg).
+My research interest is RL for foundation models (e.g., RLHF for diffusion models/language models) and foudation models for RL (LLM/VLM agents). My research is supported by Google PHD Fellowship. I am open to possible cooperations or visiting opportunities. If you are interested, please contact me by email or [wechat](../files/wechat.jpg).
 
 
 News
 -----
 
+- 11/2024: Thrilled to receieve Google PHD Fellowship 2024.
 - 10/2024: I will give a talk at INFORMS 2024 about CRISPR-GPT.
 - 03/2024: I started my internship at Google DeepMind, working with Zheng Wen and Csaba Szepesvari.
 
