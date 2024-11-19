@@ -8,10 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Kaixuan Huang (黄凯旋), a Ph.D. student in Electrical and Computer Engineering Department at Princeton University. I am fortunate to be advised by Professor [Mengdi Wang](https://mwang.princeton.edu/). Before that, I received B.S. in Mathematics and B.S. in Computer Science from Peking University. I was advised by Prof. Zhihua Zhang while doing undergraduate research. In 2019, I visited Georgia Tech as a research intern, supervised by Prof. [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/). In 2020, I visited Tsinghua University as a research intern, supervised by Prof. [Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/). I also worked closely with Prof. [Jason Lee](https://jasondlee88.github.io/).
-
- 
-My current research interest is {reasoning, alignment sciences/techniques of language models/diffusion models, safety and OOD-robustness of langauge models, language model agents}. My research is supported by Google PHD Fellowship. 
+I am Kaixuan Huang (黄凯旋), a 4th-year Ph.D. student in Electrical and Computer Engineering Department at Princeton University. I am fortunate to be advised by Professor [Mengdi Wang](https://mwang.princeton.edu/). Before that, I received B.S. in Mathematics and B.S. in Computer Science from Peking University. My current research interest is **{reasoning, alignment sciences/techniques of language models/diffusion models, safety and OOD-robustness of langauge models, language model agents}**. My research is supported by Google PHD Fellowship. 
 
 
 News
