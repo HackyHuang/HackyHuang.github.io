@@ -22,6 +22,10 @@ News
 Selected Publications
 -----
 
+
+- <font size="4"> MATH-Perturb: Benchmarking LLMs' Math Reasoning Abilities against Hard Perturbations </font>  <i> <b>Kaixuan Huang </b>, Jiacheng Guo, Zihao Li, Xiang Ji, Jiawei Ge, Wenzhe Li, Yingqing Guo, Tianle Cai, Hui Yuan, Runzhe Wang, Yue Wu, Ming Yin, Shange Tang, Yangsibo Huang, Chi Jin, Xinyun Chen, Chiyuan Zhang, Mengdi Wang </i>
+<br/> arXiv preprint <a href="https://arxiv.org/abs/2502.06453">[link]</a> <a href="https://math-perturb.github.io/">[Website]</a> 
+
 - <font size="4"> A Theoretical Perspective for Speculative Decoding Algorithm </font>  <i> Ming Yin, Minshuo Chen, <b>Kaixuan Huang</b>, and Mengdi Wang </i>
 <br/> NeurIPS 2024 <a href="https://arxiv.org/">[link]</a>
 
