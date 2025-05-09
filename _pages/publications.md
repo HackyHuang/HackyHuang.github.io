@@ -13,7 +13,7 @@ Publications and Preprints
 ## Language Models
 
 - <font size="4"> MATH-Perturb: Benchmarking LLMs' Math Reasoning Abilities against Hard Perturbations </font>  <i> <b>Kaixuan Huang</b>, Jiacheng Guo, Zihao Li, Xiang Ji, Jiawei Ge, Wenzhe Li, Yingqing Guo, Tianle Cai, Hui Yuan, Runzhe Wang, Yue Wu, Ming Yin, Shange Tang, Yangsibo Huang, Chi Jin, Xinyun Chen, Chiyuan Zhang, Mengdi Wang </i>
-<br/> arXiv preprint <a href="https://arxiv.org/abs/2502.06453">[link]</a> <a href="https://math-perturb.github.io/">[Website]</a> 
+<br/> ICML 2025 <a href="https://arxiv.org/abs/2502.06453">[link]</a> <a href="https://math-perturb.github.io/">[Website]</a> 
 
 - <font size="4"> A Theoretical Perspective for Speculative Decoding Algorithm </font>  <i> Ming Yin, Minshuo Chen, <b>Kaixuan Huang</b>, and Mengdi Wang </i>
 <br/> NeurIPS 2024 <a href="https://arxiv.org/">[link]</a>
@@ -35,7 +35,7 @@ Publications and Preprints
 <br/> arXiv preprint <a href="https://arxiv.org/abs/2405.19524">[link]</a>
 
 - <font size="4"> CRISPR-GPT: An LLM Agent for Automated Design of Gene-Editing Experiments </font>  <i> <b>Kaixuan Huang\*</b>, Yuanhao Qu\*, Henry Cousins, William A. Johnson, Di Yin, Mihir Shah, Denny Zhou, Russ Altman, Mengdi Wang, Le Cong</i>
-<br/> arXiv preprint <a href="https://arxiv.org/abs/2404.18021">[link]</a>
+<br/> to appear in Nature Biomedical Engineering <a href="https://arxiv.org/abs/2404.18021">[link]</a>
 
 - <font size="4"> Embodied LLM Agents Learn to Cooperate in Organized Teams </font>  <i> Xudong Guo, <b>Kaixuan Huang</b>, Jiale Liu, Wenhui Fan, Natalia Vélez, Qingyun Wu, Huazheng Wang, Thomas L. Griffiths, Mengdi Wang </i>
 <br/> arXiv preprint <a href="https://arxiv.org/abs/2403.12482">[link]</a>
