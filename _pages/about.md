@@ -18,12 +18,10 @@ Research Overview
 My research focuses on identifying robustness issues of LLMs and solving them via scalable data pipelines and algorithmic innovations. My recent topics include:
 
 **Robustness of RLHF and RLVR**:
-
 - The alignment of LLMs can be easily broken by exploiting parameter-efficient finetuning (PEFT) methods. We used prefix tuning methods to construct adversarial prefixes that undo the safety alignment of LLMs <a href="https://arxiv.org/abs/2306.13213">[1]</a>. We also developed pruning and low-rank adaptation methods to identify and isolate safety-critical regions of LLMs <a href="https://arxiv.org/abs/2402.05162">[2]</a>.
 - Reasoning models may memorize the problem-solving techniques from the training set and blindly apply them when the input problems are slightly perturbed <a href="https://arxiv.org/abs/2502.06453">[3]</a>.
 
 **Inference-time Algorithms & Agents**: Scaling up inference-time compute and augmenting LLMs with tools are principled approaches to boost capabilities and improve robustness. 
-
 - To accelerate high-quality data generation, we developed efficient decoding algorithm <a href="https://arxiv.org/abs/2405.19715">[4]</a> and inference-time alignment technique <a href="https://arxiv.org/abs/2410.16033">[5]</a>, borrowing techniques from traditional RL.
 - Besides handcrafting agents <a href="https://arxiv.org/abs/2404.18021">[6]</a>, I have been thinking about distilling agents into foundation models and improving them through Reinforcement Learning.
 
