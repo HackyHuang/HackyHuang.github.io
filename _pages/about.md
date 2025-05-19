@@ -17,7 +17,7 @@ My research focuses on identifying robustness issues of LLMs and solving them vi
 - The alignment of LLMs can be easily broken by exploiting parameter-efficient finetuning (PEFT) methods. We used prefix tuning methods to construct adversarial prefixes that undo the safety alignment of LLMs <a href="https://arxiv.org/abs/2306.13213">[1]</a>. We also developed pruning and low-rank adaptation methods to identify and isolate safety-critical regions of LLMs <a href="https://arxiv.org/abs/2402.05162">[2]</a>.
 - Reasoning models may memorize the problem-solving techniques from the training set and blindly apply them when the input problems are slightly perturbed <a href="https://arxiv.org/abs/2502.06453">[3]</a>.
 
-**Inference Time Algorithms & Agents**: Scaling up inference-time compute and combining language models with tools are principled approaches to boost capabilities and improve robustness. 
+**Inference-time Algorithms & Agents**: Scaling up inference-time compute and combining language models with tools are principled approaches to boost capabilities and improve robustness. 
 
 - To accelerate high-quality data generation, we developed efficient decoding algorithm <a href="https://arxiv.org/abs/2405.19715">[4]</a> and inference-time alignment technique <a href="https://arxiv.org/abs/2410.16033">[5]</a>, borrowing techniques from traditional reinforcement learning.
 - Besides handcrafting agents <a href="https://arxiv.org/abs/2404.18021">[6]</a>, I have been thinking about distilling agents into foundation models and improving them through Reinforcement Learning.
@@ -39,10 +39,10 @@ News
 Selected Publications
 -----
 
-- <font size="4"> MATH-Perturb: Benchmarking LLMs' Math Reasoning Abilities against Hard Perturbations </font>  <i> <b>Kaixuan Huang</b>, Jiacheng Guo, Zihao Li, Xiang Ji, Jiawei Ge, Wenzhe Li, Yingqing Guo, Tianle Cai, Hui Yuan, Runzhe Wang, Yue Wu, Ming Yin, Shange Tang, Yangsibo Huang, Chi Jin, Xinyun Chen, Chiyuan Zhang, Mengdi Wang </i>
+- <font size="4"> MATH-Perturb: Benchmarking LLMs' Math Reasoning Abilities against Hard Perturbations </font>  <font size="3"><i> <b>Kaixuan Huang</b>, Jiacheng Guo, Zihao Li, Xiang Ji, Jiawei Ge, Wenzhe Li, Yingqing Guo, Tianle Cai, Hui Yuan, Runzhe Wang, Yue Wu, Ming Yin, Shange Tang, Yangsibo Huang, Chi Jin, Xinyun Chen, Chiyuan Zhang, Mengdi Wang </i></font>
 <br/> ICML 2025 <a href="https://arxiv.org/abs/2502.06453">[link]</a> <a href="https://math-perturb.github.io/">[Website]</a> 
 
-- <font size="4"> SpecDec++: Boosting Speculative Decoding via Adaptive Candidate Lengths </font>  <i> <b>Kaixuan Huang </b>, Xudong Guo, Mengdi Wang</i>
+- <font size="4"> SpecDec++: Boosting Speculative Decoding via Adaptive Candidate Lengths </font>  <i> <b>Kaixuan Huang</b>, Xudong Guo, Mengdi Wang</i>
 <br/> ICML 2024 workshop on Efficient Systems for Foundation Models (ES-FoMo) <a href="https://arxiv.org/abs/2405.19715">[link]</a> <a href="https://github.com/Kaffaljidhmah2/SpecDec_pp/">[Code]</a> 
 
 - <font size="4"> CRISPR-GPT: An LLM Agent for Automated Design of Gene-Editing Experiments </font>  <i> <b>Kaixuan Huang\*</b>, Yuanhao Qu\*, Henry Cousins, William A. Johnson, Di Yin, Mihir Shah, Denny Zhou, Russ Altman, Mengdi Wang, Le Cong</i>
