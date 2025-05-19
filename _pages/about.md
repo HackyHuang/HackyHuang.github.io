@@ -39,28 +39,36 @@ News
 Selected Publications
 -----
 
-- <font size="4"> MATH-Perturb: Benchmarking LLMs' Math Reasoning Abilities against Hard Perturbations </font>  <font size="3"><i> <b>Kaixuan Huang</b>, Jiacheng Guo, Zihao Li, Xiang Ji, Jiawei Ge, Wenzhe Li, Yingqing Guo, Tianle Cai, Hui Yuan, Runzhe Wang, Yue Wu, Ming Yin, Shange Tang, Yangsibo Huang, Chi Jin, Xinyun Chen, Chiyuan Zhang, Mengdi Wang </i></font>
+- <font size="4"> MATH-Perturb: Benchmarking LLMs' Math Reasoning Abilities against Hard Perturbations </font>  
+<font size="3"><i> <b>Kaixuan Huang</b>, Jiacheng Guo, Zihao Li, Xiang Ji, Jiawei Ge, Wenzhe Li, Yingqing Guo, Tianle Cai, Hui Yuan, Runzhe Wang, Yue Wu, Ming Yin, Shange Tang, Yangsibo Huang, Chi Jin, Xinyun Chen, Chiyuan Zhang, Mengdi Wang </i></font>
 ICML 2025 <a href="https://arxiv.org/abs/2502.06453">[link]</a> <a href="https://math-perturb.github.io/">[Website]</a> 
 
-- <font size="4"> SpecDec++: Boosting Speculative Decoding via Adaptive Candidate Lengths </font>  <font size="3"><i> <b>Kaixuan Huang</b>, Xudong Guo, Mengdi Wang</i></font>
+- <font size="4"> SpecDec++: Boosting Speculative Decoding via Adaptive Candidate Lengths </font>  
+<font size="3"><i> <b>Kaixuan Huang</b>, Xudong Guo, Mengdi Wang</i></font>
 ICML 2024 workshop on Efficient Systems for Foundation Models (ES-FoMo) <a href="https://arxiv.org/abs/2405.19715">[link]</a> <a href="https://github.com/Kaffaljidhmah2/SpecDec_pp/">[Code]</a> 
 
-- <font size="4"> CRISPR-GPT: An LLM Agent for Automated Design of Gene-Editing Experiments </font>  <font size="3"><i> <b>Kaixuan Huang\*</b>, Yuanhao Qu\*, Henry Cousins, William A. Johnson, Di Yin, Mihir Shah, Denny Zhou, Russ Altman, Mengdi Wang, Le Cong</i></font>
+- <font size="4"> CRISPR-GPT: An LLM Agent for Automated Design of Gene-Editing Experiments </font>  
+<font size="3"><i> <b>Kaixuan Huang*</b>, Yuanhao Qu*, Henry Cousins, William A. Johnson, Di Yin, Mihir Shah, Denny Zhou, Russ Altman, Mengdi Wang, Le Cong</i></font>
 to appear in Nature Biomedical Engineering <a href="https://arxiv.org/abs/2404.18021">[link]</a>
 
-- <font size="4"> Embodied LLM Agents Learn to Cooperate in Organized Teams </font>  <font size="3"><i> Xudong Guo, <b>Kaixuan Huang</b>, Jiale Liu, Wenhui Fan, Natalia Vélez, Qingyun Wu, Huazheng Wang, Thomas L. Griffiths, Mengdi Wang </i></font>
+- <font size="4"> Embodied LLM Agents Learn to Cooperate in Organized Teams </font>  
+<font size="3"><i> Xudong Guo, <b>Kaixuan Huang</b>, Jiale Liu, Wenhui Fan, Natalia Vélez, Qingyun Wu, Huazheng Wang, Thomas L. Griffiths, Mengdi Wang </i></font>
 arXiv preprint <a href="https://arxiv.org/abs/2403.12482">[link]</a>
 
-- <font size="4"> Assessing the Brittleness of Safety Alignment via Pruning and Low-Rank Modifications </font>  <font size="3"><i> Boyi Wei\*, <b>Kaixuan Huang\*</b>, Yangsibo Huang\*, Tinghao Xie, Xiangyu Qi, Mengzhou Xia, Prateek Mittal, Mengdi Wang, Peter Henderson </i></font>
+- <font size="4"> Assessing the Brittleness of Safety Alignment via Pruning and Low-Rank Modifications </font>  
+<font size="3"><i> Boyi Wei*, <b>Kaixuan Huang*</b>, Yangsibo Huang*, Tinghao Xie, Xiangyu Qi, Mengzhou Xia, Prateek Mittal, Mengdi Wang, Peter Henderson </i></font>
 ICML 2024, ICLR Secure and Trustworthy LLMs 2024 (<b>Best Paper</b>) <a href="https://arxiv.org/abs/2402.05162">[link]</a> <a href="https://github.com/boyiwei/alignment-attribution-code">[Code]</a> 
 
-- <font size="4"> Visual Adversarial Examples Jailbreak Large Language Models </font>  <font size="3"><i> Xiangyu Qi\*, <b>Kaixuan Huang\*</b>, Ashwinee Panda, Peter Henderson, Mengdi Wang, Prateek Mittal </i></font>
+- <font size="4"> Visual Adversarial Examples Jailbreak Large Language Models </font>  
+<font size="3"><i> Xiangyu Qi*, <b>Kaixuan Huang*</b>, Ashwinee Panda, Peter Henderson, Mengdi Wang, Prateek Mittal </i></font>
 AAAI 2024 (<b>Oral</b>), ICML2023 Adv ML workshop (<b>Oral</b>). <a href="https://arxiv.org/abs/2306.13213">[link]</a> <a href="https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models">[Code]</a> 
 
-- <font size="4"> SORRY-Bench: Systematically Evaluating Large Language Model Safety Refusal Behaviors </font>  <font size="3"><i> Tinghao Xie, Xiangyu Qi, Yi Zeng, Yangsibo Huang, Udari Madhushani Sehwag, <b>Kaixuan Huang </b>, Luxi He, Boyi Wei, Dacheng Li, Ying Sheng, Ruoxi Jia, Bo Li, Kai Li, Danqi Chen, Peter Henderson, Prateek Mittal </i></font>
+- <font size="4"> SORRY-Bench: Systematically Evaluating Large Language Model Safety Refusal Behaviors </font>  
+<font size="3"><i> Tinghao Xie, Xiangyu Qi, Yi Zeng, Yangsibo Huang, Udari Madhushani Sehwag, <b>Kaixuan Huang </b>, Luxi He, Boyi Wei, Dacheng Li, Ying Sheng, Ruoxi Jia, Bo Li, Kai Li, Danqi Chen, Peter Henderson, Prateek Mittal </i></font>
 ICLR 2025 <a href="https://arxiv.org/abs/2405.19524">[link]</a> <a href="https://sorry-bench.github.io/">[Website]</a> 
 
-- <font size="4"> Scaling In-Context Demonstrations with Structured Attention </font>  <font size="3"><i> Tianle Cai\*, <b>Kaixuan Huang\*</b>, Jason D. Lee, Mengdi Wang </i></font>
+- <font size="4"> Scaling In-Context Demonstrations with Structured Attention </font>  
+<font size="3"><i> Tianle Cai*, <b>Kaixuan Huang*</b>, Jason D. Lee, Mengdi Wang </i></font>
 ICML 2023 Workshop on Efficient Systems for Foundation Models.  <a href="https://arxiv.org/abs/2307.02690">[link]</a>
 
 Contact Info
