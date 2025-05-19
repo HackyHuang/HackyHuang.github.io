@@ -5,7 +5,7 @@ permalink: /misc/
 author_profile: true
 ---
 
-The following is out-of-date.
+Note: the following content may be outdated.
 
 -----
 
