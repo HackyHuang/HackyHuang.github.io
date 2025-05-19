@@ -5,10 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-
-Publications and Preprints 
------
-
 Please refer to <a href="https://scholar.google.com/citations?user=EfxwV6oAAAAJ&hl=en>">my Google Scholar</a> for up-to-date information.
 
 ## Language Models
@@ -18,7 +14,7 @@ Please refer to <a href="https://scholar.google.com/citations?user=EfxwV6oAAAAJ&
 - <font size="4"> A Theoretical Perspective for Speculative Decoding Algorithm </font>  <i> Ming Yin, Minshuo Chen, <b>Kaixuan Huang</b>, and Mengdi Wang </i>
 <br/> NeurIPS 2024 <a href="https://arxiv.org/">[link]</a>
 
-- <font size="4"> SpecDec++: Boosting Speculative Decoding via Adaptive Candidate Lengths </font>  <i> <b>Kaixuan Huang </b>, Xudong Guo, Mengdi Wang</i>
+- <font size="4"> SpecDec++: Boosting Speculative Decoding via Adaptive Candidate Lengths </font>  <i> <b>Kaixuan Huang</b>, Xudong Guo, Mengdi Wang</i>
 <br/> ICML 2024 workshop on Efficient Systems for Foundation Models (ES-FoMo) <a href="https://arxiv.org/abs/2405.19715">[link]</a> <a href="https://github.com/Kaffaljidhmah2/SpecDec_pp/">[Code]</a> 
 
 
@@ -40,7 +36,7 @@ Please refer to <a href="https://scholar.google.com/citations?user=EfxwV6oAAAAJ&
 
 ### Safety Alignments
 
-- <font size="4"> SORRY-Bench: Systematically Evaluating Large Language Model Safety Refusal Behaviors </font>  <i> Tinghao Xie, Xiangyu Qi, Yi Zeng, Yangsibo Huang, Udari Madhushani Sehwag, <b>Kaixuan Huang </b>, Luxi He, Boyi Wei, Dacheng Li, Ying Sheng, Ruoxi Jia, Bo Li, Kai Li, Danqi Chen, Peter Henderson, Prateek Mittal </i>
+- <font size="4"> SORRY-Bench: Systematically Evaluating Large Language Model Safety Refusal Behaviors </font>  <i> Tinghao Xie, Xiangyu Qi, Yi Zeng, Yangsibo Huang, Udari Madhushani Sehwag, <b>Kaixuan Huang</b>, Luxi He, Boyi Wei, Dacheng Li, Ying Sheng, Ruoxi Jia, Bo Li, Kai Li, Danqi Chen, Peter Henderson, Prateek Mittal </i>
 <br/> ICLR 2025 <a href="https://arxiv.org/abs/2405.19524">[link]</a> <a href="https://sorry-bench.github.io/">[Website]</a> 
 
 
