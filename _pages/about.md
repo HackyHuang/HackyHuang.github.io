@@ -8,7 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I am Kaixuan Huang (黄凯旋), a 4th-year Ph.D. student in Electrical and Computer Engineering Department at Princeton University. I am fortunate to be advised by Professor [Mengdi Wang](https://mwang.princeton.edu/). Before that, I received B.S. in Mathematics and B.S. in Computer Science from Peking University. My current research interest is **{reasoning, alignment sciences/techniques of language models/diffusion models, safety and OOD-robustness of langauge models, language model agents}**. My research is supported by Google PHD Fellowship. 
+I am Kaixuan Huang (黄凯旋), a final year Ph.D. student in Electrical and Computer Engineering Department at Princeton University. I am fortunate to be advised by Professor [Mengdi Wang](https://mwang.princeton.edu/). Before that, I received B.S. in Mathematics and B.S. in Computer Science from Peking University. My research is partially supported by Google PHD Fellowship. 
+
+My research focuses on identifying robustness issues of LLMs and solving them via scalable data pipelines and algorithmic innovations. My recent topics include:
+
+**Robustness of RLHF and RLVR**:
+
+- The alignment of LLMs can be easily broken by exploiting parameter-efficient finetuning (PEFT) methods. We used prefix tuning methods to construct adversarial prefixes that undo the safety alignment of LLMs <a href="https://arxiv.org/abs/2306.13213">[1]</a>. We also developed pruning and low-rank adaptation methods to identify and isolate safety-critical regions of LLMs <a href="https://arxiv.org/abs/2402.05162">[2]</a>.
+- Reasoning models may memorize the problem-solving techniques from the training set and blindly apply them when the input problems are slightly perturbed <a href="https://arxiv.org/abs/2502.06453">[3]</a>.
+
+**Inference Time Algorithms & Agents**: Scaling up inference-time compute and combining language models with tools are principled approaches to boost capabilities and improve robustness. 
+
+- To accelerate high-quality data generation, we developed efficient decoding algorithm <a href="https://arxiv.org/abs/2405.19715">[4]</a> and inference-time alignment technique <a href="https://arxiv.org/abs/2410.16033">[5]</a>, borrowing techniques from traditional reinforcement learning.
+- Besides handcrafting agents <a href="https://arxiv.org/abs/2404.18021">[6]</a>, I have been thinking about distilling agents into foundation models and improving them through Reinforcement Learning.
+
+I am also interested in long-term research that can lead to a paradigm shift for the current AI systems. 
+
 
 
 News
@@ -24,32 +39,14 @@ News
 Selected Publications
 -----
 
-
 - <font size="4"> MATH-Perturb: Benchmarking LLMs' Math Reasoning Abilities against Hard Perturbations </font>  <i> <b>Kaixuan Huang</b>, Jiacheng Guo, Zihao Li, Xiang Ji, Jiawei Ge, Wenzhe Li, Yingqing Guo, Tianle Cai, Hui Yuan, Runzhe Wang, Yue Wu, Ming Yin, Shange Tang, Yangsibo Huang, Chi Jin, Xinyun Chen, Chiyuan Zhang, Mengdi Wang </i>
 <br/> ICML 2025 <a href="https://arxiv.org/abs/2502.06453">[link]</a> <a href="https://math-perturb.github.io/">[Website]</a> 
-
-- <font size="4"> A Theoretical Perspective for Speculative Decoding Algorithm </font>  <i> Ming Yin, Minshuo Chen, <b>Kaixuan Huang</b>, and Mengdi Wang </i>
-<br/> NeurIPS 2024 <a href="https://arxiv.org/">[link]</a>
-
-
-- <font size="4"> Latent Diffusion Models for Controllable RNA Sequence Generation </font>  <i> <b>Kaixuan Huang\*</b>, Yukang Yang\*, Kaidi Fu, Yanyi Chu, Le Cong, Mengdi Wang </i>
-<br/> NeurIPS 2024 Workshop on AI for New Drug Modalities <a href="https://arxiv.org/abs/2409.09828">[link]</a>
-
-
-- <font size="4"> SORRY-Bench: Systematically Evaluating Large Language Model Safety Refusal Behaviors </font>  <i> Tinghao Xie, Xiangyu Qi, Yi Zeng, Yangsibo Huang, Udari Madhushani Sehwag, <b>Kaixuan Huang </b>, Luxi He, Boyi Wei, Dacheng Li, Ying Sheng, Ruoxi Jia, Bo Li, Kai Li, Danqi Chen, Peter Henderson, Prateek Mittal </i>
-<br/> ICLR 2025 <a href="https://arxiv.org/abs/2405.19524">[link]</a> <a href="https://sorry-bench.github.io/">[Website]</a> 
-
 
 - <font size="4"> SpecDec++: Boosting Speculative Decoding via Adaptive Candidate Lengths </font>  <i> <b>Kaixuan Huang </b>, Xudong Guo, Mengdi Wang</i>
 <br/> ICML 2024 workshop on Efficient Systems for Foundation Models (ES-FoMo) <a href="https://arxiv.org/abs/2405.19715">[link]</a> <a href="https://github.com/Kaffaljidhmah2/SpecDec_pp/">[Code]</a> 
 
-
-- <font size="4"> AI Risk Management Should Incorporate Both Safety and Security </font>  <i> Xiangyu Qi, Yangsibo Huang, Yi Zeng, Edoardo Debenedetti, Jonas Geiping, Luxi He, <b> Kaixuan Huang </b>, Udari Madhushani, Vikash Sehwag, Weijia Shi, Boyi Wei, Tinghao Xie, Danqi Chen, Pin-Yu Chen, Jeffrey Ding, Ruoxi Jia, Jiaqi Ma, Arvind Narayanan, Weijie J Su, Mengdi Wang, Chaowei Xiao, Bo Li, Dawn Song, Peter Henderson, Prateek Mittal </i>
-<br/> arXiv preprint <a href="https://arxiv.org/abs/2405.19524">[link]</a>
-
 - <font size="4"> CRISPR-GPT: An LLM Agent for Automated Design of Gene-Editing Experiments </font>  <i> <b>Kaixuan Huang\*</b>, Yuanhao Qu\*, Henry Cousins, William A. Johnson, Di Yin, Mihir Shah, Denny Zhou, Russ Altman, Mengdi Wang, Le Cong</i>
 <br/> to appear in Nature Biomedical Engineering <a href="https://arxiv.org/abs/2404.18021">[link]</a>
-
 
 - <font size="4"> Embodied LLM Agents Learn to Cooperate in Organized Teams </font>  <i> Xudong Guo, <b>Kaixuan Huang</b>, Jiale Liu, Wenhui Fan, Natalia Vélez, Qingyun Wu, Huazheng Wang, Thomas L. Griffiths, Mengdi Wang </i>
 <br/> arXiv preprint <a href="https://arxiv.org/abs/2403.12482">[link]</a>
@@ -57,32 +54,14 @@ Selected Publications
 - <font size="4"> Assessing the Brittleness of Safety Alignment via Pruning and Low-Rank Modifications </font>  <i> Boyi Wei\*, <b>Kaixuan Huang\*</b>, Yangsibo Huang\*, Tinghao Xie, Xiangyu Qi, Mengzhou Xia, Prateek Mittal, Mengdi Wang, Peter Henderson </i>
 <br/> ICML 2024 <a href="https://arxiv.org/abs/2402.05162">[link]</a> <a href="https://github.com/boyiwei/alignment-attribution-code">[Code]</a> 
 
-- <font size="4"> A 5' UTR Language Model for Decoding Untranslated Regions of mRNA and Function Predictions </font>  <i> Yanyi Chu\*, Dan Yu\*, Yupeng Li, <b>Kaixuan Huang</b>, Yue Shen, Le Cong, Jason Zhang, Mengdi Wang</i>
-<br/> Nature Machine Intelligence (2024) <a href="https://www.nature.com/articles/s42256-024-00823-9">[link]</a> 
-
 - <font size="4"> Visual Adversarial Examples Jailbreak Large Language Models </font>  <i> Xiangyu Qi\*, <b>Kaixuan Huang\*</b>, Ashwinee Panda, Peter Henderson, Mengdi Wang, Prateek Mittal </i>
 <br/> AAAI 2024 (<b> Oral </b>) ICML2023 Adv ML workshop. (<b>Oral</b>) <a href="https://arxiv.org/abs/2306.13213">[link]</a> <a href="https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models">[Code]</a> 
 
+- <font size="4"> SORRY-Bench: Systematically Evaluating Large Language Model Safety Refusal Behaviors </font>  <i> Tinghao Xie, Xiangyu Qi, Yi Zeng, Yangsibo Huang, Udari Madhushani Sehwag, <b>Kaixuan Huang </b>, Luxi He, Boyi Wei, Dacheng Li, Ying Sheng, Ruoxi Jia, Bo Li, Kai Li, Danqi Chen, Peter Henderson, Prateek Mittal </i>
+<br/> ICLR 2025 <a href="https://arxiv.org/abs/2405.19524">[link]</a> <a href="https://sorry-bench.github.io/">[Website]</a> 
+
 - <font size="4"> Scaling In-Context Demonstrations with Structured Attention </font>  <i> Tianle Cai\*, <b>Kaixuan Huang\*</b>, Jason D. Lee, Mengdi Wang </i>
 <br/> ICML 2023 Workshop on Efficient Systems for Foundation Models.  <a href="https://arxiv.org/abs/2307.02690">[link]</a>
-
-- <font size="4"> Reward-Directed Conditional Diffusion: Provable Distribution Estimation and Reward Improvement </font>  <i> Hui Yuan, <b>Kaixuan Huang</b>, Chengzhuo Ni, Minshuo Chen, Mengdi Wang</i>
-<br/> In <i>Advances in Neural Information Processing Systems</i> (NeurIPS), 2023. <a href="https://arxiv.org/abs/2307.07055">[link]</a> <a href="https://github.com/Kaffaljidhmah2/RCGDM">[Code]</a> 
-
-- <font size="4"> Score Approximation, Estimation and Distribution Recovery of Diffusion Models on Low-Dimensional Data </font>  <i> Minshuo Chen\*, <b>Kaixuan Huang\*</b>, Tuo Zhao, Mengdi Wang </i>
-<br/> In <i>International Conference on Machine Learning</i> (ICML), 2023. <a href="https://arxiv.org/abs/2302.07194">[link]</a> 
-
-- <font size="4"> Fast Federated Learning in the Presence of Arbitrary Device Unavailability </font>  <i> Xinran Gu\*, <b>Kaixuan Huang\*</b>, Jingzhao Zhang, Longbo Huang </i>
-<br/> In <i>Advances in Neural Information Processing Systems</i> (NeurIPS), 2021. <a href="https://arxiv.org/abs/2106.04159">[link]</a> 
-
-- <font size="4"> Why Do Deep Residual Networks Generalize Better than Deep Feedforward Networks? --- A Neural Tangent Kernel Perspective </font>
-<i><b>Kaixuan Huang\*</b>, Yuqing Wang\*, Molei Tao, Tuo Zhao </i>
-<br/> In <i>Advances in Neural Information Processing Systems</i> (NeurIPS), 2020. <a href="https://proceedings.neurips.cc//paper/2020/hash/1c336b8080f82bcc2cd2499b4c57261d-Abstract.html">[link]</a>
-
-- <font size="4"> On the Convergence of FedAvg on Non-IID Data </font>
-<i>Xiang Li\*, <b>Kaixuan Huang\*</b>, Wenhao Yang\*, Shusen Wang, Zhihua Zhang </i>
-<br/> In <i>International Conference on Learning Representations</i> (ICLR), 2020. (<b>Oral Presentation</b>) <a href="https://openreview.net/forum?id=HJxNAnVtDS">[link]</a>
-
 
 Contact Info
 ------
