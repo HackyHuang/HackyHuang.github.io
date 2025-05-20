@@ -15,7 +15,7 @@ Contact me via email <a href="mailto:kaixuanh@princeton.edu">kaixuanh@princeton.
 Research Overview
 ----
 
-My research focuses on identifying robustness issues of LLMs and solving them via scalable data pipelines and algorithmic innovations. My recent topics include:
+My research focuses on (1) understanding how language models may fail when inputs are out-of-distribution or adversarial, and (2) improving the capabilities and robustness of language models via scalable human/synthetic data pipelines and algorithmic innovations. My recent topics include:
 
 **Robustness of RLHF and RLVR**:
 - The alignment of LLMs can be easily broken by exploiting parameter-efficient finetuning (PEFT) methods. We used prefix tuning methods to construct adversarial prefixes that undo the safety alignment of LLMs <a href="https://arxiv.org/abs/2306.13213">[1]</a>. We also developed pruning and low-rank adaptation methods to identify and isolate safety-critical regions of LLMs <a href="https://arxiv.org/abs/2402.05162">[2]</a>.
