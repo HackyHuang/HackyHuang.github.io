@@ -50,7 +50,7 @@ Selected Works
 
 
 <div style="font-size:20px;">SpecDec++: Boosting Speculative Decoding via Adaptive Candidate Lengths   
-<div style="font-size: 18px;"> ICML 2024 workshop on Efficient Systems for Foundation Models (ES-FoMo) <a href="https://arxiv.org/abs/2405.19715">[link]</a> <a href="https://github.com/Kaffaljidhmah2/SpecDec_pp/">[Code]</a> </div>
+<div style="font-size: 18px;"> COLM 2025; ICML 2024 workshop on Efficient Systems for Foundation Models (ES-FoMo) <a href="https://arxiv.org/abs/2405.19715">[link]</a> <a href="https://github.com/Kaffaljidhmah2/SpecDec_pp/">[Code]</a> </div>
 <div style="font-size: 16px;"><i> <b>Kaixuan Huang</b>, Xudong Guo, Mengdi Wang</i></div></div>
 
 <br/>

@@ -15,7 +15,7 @@ Please refer to <a href="https://scholar.google.com/citations?user=EfxwV6oAAAAJ&
 <br/> NeurIPS 2024 <a href="https://arxiv.org/">[link]</a>
 
 - <font size="4"> SpecDec++: Boosting Speculative Decoding via Adaptive Candidate Lengths </font>  <i> <b>Kaixuan Huang</b>, Xudong Guo, Mengdi Wang</i>
-<br/> ICML 2024 workshop on Efficient Systems for Foundation Models (ES-FoMo) <a href="https://arxiv.org/abs/2405.19715">[link]</a> <a href="https://github.com/Kaffaljidhmah2/SpecDec_pp/">[Code]</a> 
+<br/> COLM 2025; ICML 2024 workshop on Efficient Systems for Foundation Models (ES-FoMo) <a href="https://arxiv.org/abs/2405.19715">[link]</a> <a href="https://github.com/Kaffaljidhmah2/SpecDec_pp/">[Code]</a> 
 
 
 - <font size="4"> CRISPR-GPT: An LLM Agent for Automated Design of Gene-Editing Experiments </font>  <i> <b>Kaixuan Huang\*</b>, Yuanhao Qu\*, Henry Cousins, William A. Johnson, Di Yin, Mihir Shah, Denny Zhou, Russ Altman, Mengdi Wang, Le Cong</i>
