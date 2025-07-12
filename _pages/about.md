@@ -10,6 +10,8 @@ redirect_from:
 
 I am Kaixuan Huang (黄凯旋), a final year Ph.D. student in Electrical and Computer Engineering Department at Princeton University. I am fortunate to be advised by Professor [Mengdi Wang](https://mwang.princeton.edu/). Before that, I received B.S. in Mathematics and B.S. in Computer Science from Peking University. My research is partially supported by Google PHD Fellowship. 
 
+My first name Kaixuan is pronounced "Kye Sh-wen" [(audio sample)](https://www.youtube.com/watch?v=vAOsri9xy-Y), which means triumph.
+
 Contact me via email <a href="mailto:kaixuanh@princeton.edu">kaixuanh@princeton.edu</a>; <a href="https://x.com/KaixuanHuang1">X Account</a>; wechat: [\[QR Code\]](../files/wechat.jpg).
 
 Research Overview
